@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { View, Text, TextInput, TouchableOpacity, StyleSheet, Modal, ScrollView } from 'react-native';
+import { View, Text, TextInput, TouchableOpacity, StyleSheet, Modal, ScrollView, Linking } from 'react-native';
 import { Poppins_400Regular, Poppins_600SemiBold } from '@expo-google-fonts/poppins';
 import { useFonts } from '@expo-google-fonts/poppins/useFonts';
 import Icon from 'react-native-vector-icons/FontAwesome';
@@ -86,12 +86,19 @@ export default function DocenteDetailedScreen({ route }) {
                 </View>
             </View>
 
-            <View style={{ width: "80%", marginTop: 30 }}>
+            <TouchableOpacity style={styles.alertPrimary} onPress={() => Linking.openURL(`https://ufabcontent.pythonanywhere.com/docentes/${docente}`)}>
+                <Icon name='exclamation-triangle' color={"#6EA8FE"} size={16}></Icon>
+                <Text style={{ fontSize: 16, fontFamily: "Poppins_400Regular", color: "#6EA8FE", marginLeft: 10 }}>
+                    Ainda não é possível enviar arquivos pela versão mobile. Para fazer um envio, clique aqui.
+                </Text>
+            </TouchableOpacity>
+
+            {/*<View style={{ width: "80%", marginTop: 30 }}>
                 <Text style={{ fontFamily: "Poppins_400Regular", fontSize: 16 }}>Adicionar arquivos</Text>
                 <TouchableOpacity style={styles.attachFile} onPress={() => setModalVisible(true)}>
                     <Text style={{ fontFamily: "Poppins_400Regular", marginLeft: 10, fontSize: 16 }}>Enviar arquivo</Text>
                 </TouchableOpacity>
-            </View>
+            </View>*/}
 
             <SafeAreaProvider>
                 <SafeAreaView style={styles.centeredView}>
@@ -273,6 +280,18 @@ const styles = StyleSheet.create({
         padding: 16,
         backgroundColor: "white",
         alignItems: "center",
+    },
+    alertPrimary: {
+        backgroundColor: "#031633",
+        maxWidth: "90%",
+        borderRadius: 6,
+        borderColor: "#0A3622",
+        borderWidth: StyleSheet.hairlineWidth,
+        padding: 15,
+        marginTop: 20,
+        display: "flex",
+        flexDirection: "row",
+        alignItems: "center"
     },
     alertSucess: {
         backgroundColor: "#D1E7DD",
