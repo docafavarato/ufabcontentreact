@@ -1,21 +1,49 @@
 import React, { useState } from 'react';
-import { View, Text, TextInput, TouchableOpacity, StyleSheet, Modal } from 'react-native';
+import { View, Text, TextInput, TouchableOpacity, StyleSheet, Modal, ScrollView } from 'react-native';
 import { Poppins_400Regular, Poppins_600SemiBold } from '@expo-google-fonts/poppins';
 import { useFonts } from '@expo-google-fonts/poppins/useFonts';
 import Icon from 'react-native-vector-icons/FontAwesome';
 import { SafeAreaView, SafeAreaProvider } from 'react-native-safe-area-context';
 import * as DocumentPicker from 'expo-document-picker';
 import SearchableSelect from '../components/SearchableSelect';
+import { useEffect } from 'react';
 
 export default function DocenteDetailedScreen({ route }) {
     const [modalVisible, setModalVisible] = useState(false);
     const [selectedFile, setSelectedFile] = useState(null);
     const { docente } = route.params;
+    const [arquivos, setArquivos] = useState([]);
 
     const [fontsLoaded] = useFonts({
         Poppins_400Regular,
         Poppins_600SemiBold
     });
+
+    useEffect(() => {
+        const fetchArquivos = async () => {
+            try {
+                const response = await fetch(`https://ufabcontentapi.pythonanywhere.com/getDocenteFiles/${encodeURIComponent(docente.toString().toLowerCase().replace(/ /g, "-"))}/Todos`, {
+                    method: 'GET',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'x-api-key': '1f3a5ad34b'
+                    }
+                });
+
+                if (!response.ok) {
+                    console.error("Erro de resposta:", response.status);
+                    return;
+                }
+
+                const data = await response.json();
+                setArquivos(data);
+            } catch (error) {
+                console.error('Erro ao buscar arquivos:', error);
+            }
+        };
+
+        fetchArquivos();
+    }, [docente]);
 
     if (!fontsLoaded) {
         return null;
@@ -42,6 +70,7 @@ export default function DocenteDetailedScreen({ route }) {
 
     return (
         <View style={styles.container}>
+            <ScrollView contentContainerStyle={{ alignItems: 'center', paddingBottom: 40 }}>
             <Text style={{ fontSize: 22, fontFamily: "Poppins_600SemiBold" }}>{docente}</Text>
             <View style={styles.alertSucess}>
                 <Text style={{ fontSize: 20, color: "#0A3622", fontFamily: "Poppins_400Regular" }}>Colabore!</Text>
@@ -129,11 +158,62 @@ export default function DocenteDetailedScreen({ route }) {
 
                 </SafeAreaView>
             </SafeAreaProvider>
+            
+            <View style={{alignItems: "center"}}>
+                {arquivos.length === 0 ? (
+                <Text style={{ fontFamily: "Poppins_400Regular", color: "#6c757d", marginTop: 20 }}>
+                    Nenhum arquivo disponível.
+                </Text>
+                ) : (
+                <>
+                    <View style={styles.alertFilesLength}>
+                        <Text style={{fontFamily: "Poppins_600SemiBold", fontSize: 16}}>{arquivos.length}</Text>
+                        <Text style={{fontFamily: "Poppins_400Regular", fontSize: 16}}> arquivo{arquivos.length > 1 ? 's' : ''} encontrado{arquivos.length > 1 ? 's' : ''}.</Text>
+                    </View>
+
+                    
+                        <View style={{ marginTop: 10, width: "90%" }}>
+                            {arquivos.map((arquivo, index) => (
+                            <View key={index} style={styles.arquivoCard}>
+                                <Text style={{ fontFamily: "Poppins_400Regular", fontSize: 16 }}>
+                                {arquivo.displayName}
+                                </Text>
+                                <Text style={{ fontFamily: "Poppins_400Regular", fontSize: 13, color: "#6c757d" }}>
+                                {arquivo.description.split("~")[0]} | {arquivo.sizeFormatted}
+                                </Text>
+                            </View>
+                            ))}
+                        </View>
+                    
+                </>
+                )}
+            </View>
+            </ScrollView>
         </View>
     );
 }
 
 const styles = StyleSheet.create({
+    alertFilesLength: {
+        backgroundColor: "#D1E7DD",
+        maxWidth: "80%",
+        borderRadius: 6,
+        borderColor: "#0A3622",
+        borderWidth: StyleSheet.hairlineWidth,
+        padding: 15,
+        marginTop: 30,
+        display: "flex",
+        flexDirection: "row"
+    },
+    arquivoCard: {
+        backgroundColor: "#F0F4F9",
+        minHeight: "64",
+        minWidth: "90%",
+        maxWidth: "90%",
+        borderRadius: 6,
+        padding: 10,
+        margin: 15
+    },
     sendButton: {
         backgroundColor: "#0D6EFD",
         borderRadius: 6,
@@ -196,7 +276,7 @@ const styles = StyleSheet.create({
     },
     alertSucess: {
         backgroundColor: "#D1E7DD",
-        maxWidth: "80%",
+        maxWidth: "90%",
         borderRadius: 6,
         borderColor: "#0A3622",
         borderWidth: StyleSheet.hairlineWidth,
