@@ -1,0 +1,5418 @@
+[
+    {
+        "name": "A quest\u00e3o nuclear nas Rela\u00e7\u00f5es Internacionais",
+        "formattedName": "QNNRI"
+    },
+    {
+        "name": "A\u00e7\u00f5es extensionistas em Biodiversidade e Evolu\u00e7\u00e3o",
+        "formattedName": "AEBE"
+    },
+    {
+        "name": "A\u00e7\u00f5es extensionistas em Biomol\u00e9culas e suas fun\u00e7\u00f5es",
+        "formattedName": "AEBSF"
+    },
+    {
+        "name": "A\u00e7\u00f5es extensionistas em Bot\u00e2nica",
+        "formattedName": "AEB"
+    },
+    {
+        "name": "A\u00e7\u00f5es extensionistas em Fisiologia e Sa\u00fade",
+        "formattedName": "AEFS"
+    },
+    {
+        "name": "A\u00e7\u00f5es Extensionistas em Microbiologia, Ambiente e Sa\u00fade",
+        "formattedName": "AEMAS"
+    },
+    {
+        "name": "A\u00e7\u00f5es extensionistas em Zoologia",
+        "formattedName": "AEZ"
+    },
+    {
+        "name": "Aditiva\u00e7\u00e3o de Pol\u00edmeros",
+        "formattedName": "AP"
+    },
+    {
+        "name": "Administra\u00e7\u00e3o P\u00fablica e Reforma do Estado em Perspectiva Comparada",
+        "formattedName": "APREPC"
+    },
+    {
+        "name": "Aerodin\u00e2mica I",
+        "formattedName": "A"
+    },
+    {
+        "name": "Aerodin\u00e2mica II",
+        "formattedName": "A"
+    },
+    {
+        "name": "Aeroelasticidade",
+        "formattedName": "A"
+    },
+    {
+        "name": "Aeron\u00e1utica I-A",
+        "formattedName": "AI"
+    },
+    {
+        "name": "Aeron\u00e1utica I-B",
+        "formattedName": "AI"
+    },
+    {
+        "name": "Aeron\u00e1utica II",
+        "formattedName": "A"
+    },
+    {
+        "name": "Aeronaves Dirig\u00edveis",
+        "formattedName": "AD"
+    },
+    {
+        "name": "\u00c1frica nas Rela\u00e7\u00f5es Internacionais",
+        "formattedName": "\u00c1NRI"
+    },
+    {
+        "name": "\u00c1lgebra Comutativa",
+        "formattedName": "\u00c1C"
+    },
+    {
+        "name": "\u00c1lgebra Linear",
+        "formattedName": "\u00c1L"
+    },
+    {
+        "name": "\u00c1lgebra Linear Avan\u00e7ada",
+        "formattedName": "\u00c1LA"
+    },
+    {
+        "name": "\u00c1lgebra na Educa\u00e7\u00e3o B\u00e1sica",
+        "formattedName": "\u00c1EB"
+    },
+    {
+        "name": "Algoritmos e Estruturas de Dados I",
+        "formattedName": "AED"
+    },
+    {
+        "name": "Algoritmos e Estruturas de Dados II",
+        "formattedName": "AED"
+    },
+    {
+        "name": "Algoritmos em Grafos",
+        "formattedName": "AG"
+    },
+    {
+        "name": "Algoritmos Probabil\u00edsticos",
+        "formattedName": "AP"
+    },
+    {
+        "name": "Am\u00e9rica Latina Contempor\u00e2nea",
+        "formattedName": "ALC"
+    },
+    {
+        "name": "Am\u00e9rica Portuguesa",
+        "formattedName": "AP"
+    },
+    {
+        "name": "An\u00e1lise Complexa",
+        "formattedName": "AC"
+    },
+    {
+        "name": "An\u00e1lise da Produ\u00e7\u00e3o do Espa\u00e7o e Pol\u00edticas P\u00fablicas Urbanas",
+        "formattedName": "APEPPU"
+    },
+    {
+        "name": "An\u00e1lise de Algoritmos I",
+        "formattedName": "AA"
+    },
+    {
+        "name": "An\u00e1lise de Algoritmos II",
+        "formattedName": "AA"
+    },
+    {
+        "name": "An\u00e1lise de conjuntura internacional",
+        "formattedName": "ACI"
+    },
+    {
+        "name": "An\u00e1lise de Dados para o Planejamento Territorial",
+        "formattedName": "ADPPT"
+    },
+    {
+        "name": "An\u00e1lise de Fourier e Aplica\u00e7\u00f5es",
+        "formattedName": "AFA"
+    },
+    {
+        "name": "An\u00e1lise de Indicadores de Microeconomia e Economia Industrial",
+        "formattedName": "AIMEI"
+    },
+    {
+        "name": "Ana\u0301lise de Poli\u0301tica Externa",
+        "formattedName": "APE"
+    },
+    {
+        "name": "An\u00e1lise de Projetos",
+        "formattedName": "AP"
+    },
+    {
+        "name": "An\u00e1lise de Redes de Transporte e Distribui\u00e7\u00e3o",
+        "formattedName": "ARTD"
+    },
+    {
+        "name": "An\u00e1lise de Regress\u00e3o",
+        "formattedName": "AR"
+    },
+    {
+        "name": "An\u00e1lise de S\u00e9ries Temporais - T\u00f3picos Especiais",
+        "formattedName": "ASTTE"
+    },
+    {
+        "name": "An\u00e1lise de Sistemas Din\u00e2micos Lineares",
+        "formattedName": "ASDL"
+    },
+    {
+        "name": "An\u00e1lise de Sistemas e Modelagem Ambiental",
+        "formattedName": "ASMA"
+    },
+    {
+        "name": "An\u00e1lise e Concep\u00e7\u00e3o Estrutural para a Engenharia",
+        "formattedName": "ACEPE"
+    },
+    {
+        "name": "An\u00e1lise e Controle de Sistemas Mec\u00e2nicos",
+        "formattedName": "ACSM"
+    },
+    {
+        "name": "An\u00e1lise Econ\u00f4mica de Projetos",
+        "formattedName": "AEP"
+    },
+    {
+        "name": "An\u00e1lise Econ\u00f4mica de Projetos Energ\u00e9ticos",
+        "formattedName": "AEPE"
+    },
+    {
+        "name": "An\u00e1lise Est\u00e1tica em Sistemas El\u00e9tricos de Pot\u00eancia",
+        "formattedName": "AESEP"
+    },
+    {
+        "name": "An\u00e1lise Experimental de Estruturas",
+        "formattedName": "AEE"
+    },
+    {
+        "name": "An\u00e1lise Multivariada",
+        "formattedName": "AM"
+    },
+    {
+        "name": "An\u00e1lise na Educa\u00e7\u00e3o B\u00e1sica",
+        "formattedName": "AEB"
+    },
+    {
+        "name": "An\u00e1lise no Rn I",
+        "formattedName": "A"
+    },
+    {
+        "name": "An\u00e1lise no Rn II",
+        "formattedName": "A"
+    },
+    {
+        "name": "An\u00e1lise Real I",
+        "formattedName": "AR"
+    },
+    {
+        "name": "An\u00e1lise Real II",
+        "formattedName": "AR"
+    },
+    {
+        "name": "An\u00e1lise Social da Fam\u00edlia e Implementa\u00e7\u00e3o de Pol\u00edticas P\u00fablicas",
+        "formattedName": "ASFIPP"
+    },
+    {
+        "name": "An\u00e1lises de Dados Ambientais",
+        "formattedName": "ADA"
+    },
+    {
+        "name": "Antiguidade",
+        "formattedName": "A"
+    },
+    {
+        "name": "Antiguidades e Usos do Passado",
+        "formattedName": "AUP"
+    },
+    {
+        "name": "Antropologia Filos\u00f3fica",
+        "formattedName": "AF"
+    },
+    {
+        "name": "Aplica\u00e7\u00f5es de Elementos Finitos para Engenharia",
+        "formattedName": "AEFPE"
+    },
+    {
+        "name": "Aplica\u00e7\u00f5es de Microcontroladores",
+        "formattedName": "AM"
+    },
+    {
+        "name": "Aplica\u00e7\u00f5es em Voz, \u00c1udio e Ac\u00fastica",
+        "formattedName": "AV\u00c1A"
+    },
+    {
+        "name": "Aplica\u00e7\u00f5es Estruturais de Materiais Comp\u00f3sitos",
+        "formattedName": "AEMC"
+    },
+    {
+        "name": "Aprendizado de M\u00e1quina",
+        "formattedName": "AM"
+    },
+    {
+        "name": "Aproveitamento Energ\u00e9tico de Res\u00edduos",
+        "formattedName": "AER"
+    },
+    {
+        "name": "Aproxima\u00e7\u00e3o Te\u00f3rica e Num\u00e9rica I",
+        "formattedName": "ATN"
+    },
+    {
+        "name": "Aproxima\u00e7\u00e3o Te\u00f3rica e Num\u00e9rica II",
+        "formattedName": "ATN"
+    },
+    {
+        "name": "Arenas e Problemas P\u00fablicos",
+        "formattedName": "APP"
+    },
+    {
+        "name": "Argumenta\u00e7\u00e3o e Ensino",
+        "formattedName": "AE"
+    },
+    {
+        "name": "Armazenamento de Energia El\u00e9trica",
+        "formattedName": "AEE"
+    },
+    {
+        "name": "Arquitetura de Computadores",
+        "formattedName": "AC"
+    },
+    {
+        "name": "Arquitetura de Computadores de Alto Desempenho",
+        "formattedName": "ACAD"
+    },
+    {
+        "name": "Arranjos Institucionais e Marco Regulat\u00f3rio do Territ\u00f3rio",
+        "formattedName": "AIMRT"
+    },
+    {
+        "name": "Arte e Ensino",
+        "formattedName": "AE"
+    },
+    {
+        "name": "Arte no ensino de Ci\u00eancias Humanas",
+        "formattedName": "AECH"
+    },
+    {
+        "name": "Arte, Ci\u00eancia, Tecnologia e Pol\u00edtica",
+        "formattedName": "ACTP"
+    },
+    {
+        "name": "As categorias de Karl Marx e a an\u00e1lise do Capitalismo Contempor\u00e2neo",
+        "formattedName": "CKMACC"
+    },
+    {
+        "name": "\u00c1sia: Cultura e Processos S\u00f3cio-Pol\u00edticos",
+        "formattedName": "\u00c1CPS"
+    },
+    {
+        "name": "Astrobiologia",
+        "formattedName": "A"
+    },
+    {
+        "name": "Aten\u00e7\u00e3o e Estados de Consci\u00eancia",
+        "formattedName": "AEC"
+    },
+    {
+        "name": "Atividades da Teoria",
+        "formattedName": "AT"
+    },
+    {
+        "name": "Atores e Institui\u00e7\u00f5es no Regime Militar: 1964-1985",
+        "formattedName": "AIRM1"
+    },
+    {
+        "name": "Atores N\u00e3o Estatais e as Rela\u00e7\u00f5es Internacionais",
+        "formattedName": "ANERI"
+    },
+    {
+        "name": "Automa\u00e7\u00e3o de Sistemas El\u00e9tricos de Pot\u00eancia",
+        "formattedName": "ASEP"
+    },
+    {
+        "name": "Automa\u00e7\u00e3o de Sistemas Industriais",
+        "formattedName": "ASI"
+    },
+    {
+        "name": "Automa\u00e7\u00e3o em Sistemas de Manufatura",
+        "formattedName": "ASM"
+    },
+    {
+        "name": "Avalia\u00e7\u00e3o Ambiental Estrat\u00e9gica",
+        "formattedName": "AAE"
+    },
+    {
+        "name": "Avalia\u00e7\u00e3o de Desempenho de Redes",
+        "formattedName": "ADR"
+    },
+    {
+        "name": "Avalia\u00e7\u00e3o de Impactos Ambientais",
+        "formattedName": "AIA"
+    },
+    {
+        "name": "Avalia\u00e7\u00e3o e Monitoramento de Pol\u00edticas P\u00fablicas",
+        "formattedName": "AMPP"
+    },
+    {
+        "name": "Avalia\u00e7\u00e3o no Ensino de Qu\u00edmica",
+        "formattedName": "AEQ"
+    },
+    {
+        "name": "Avi\u00f4nica",
+        "formattedName": "A"
+    },
+    {
+        "name": "Banco de Dados de Apoio \u00e0 Tomada de Decis\u00e3o",
+        "formattedName": "BDATD"
+    },
+    {
+        "name": "Base Experimental das Ci\u00eancias Naturais",
+        "formattedName": "BEDCN"
+    },
+    {
+        "name": "Bases Computacionais da Ci\u00eancia",
+        "formattedName": "BCC"
+    },
+    {
+        "name": "Bases Conceituais da Energia",
+        "formattedName": "BCE"
+    },
+    {
+        "name": "Bases Epistemol\u00f3gicas da Ci\u00eancia Moderna",
+        "formattedName": "BECM"
+    },
+    {
+        "name": "Bases Matem\u00e1ticas",
+        "formattedName": "BM"
+    },
+    {
+        "name": "Bases Neurais da Motricidade",
+        "formattedName": "BNM"
+    },
+    {
+        "name": "Biocombust\u00edveis e Biorrefinarias",
+        "formattedName": "BB"
+    },
+    {
+        "name": "Biodiversidade, Geodiversidade e Paisagem",
+        "formattedName": "BGP"
+    },
+    {
+        "name": "Biodiversidade: Intera\u00e7\u00f5es entre organismos e ambiente",
+        "formattedName": "BIEOA"
+    },
+    {
+        "name": "Bioestat\u00edstica",
+        "formattedName": "B"
+    },
+    {
+        "name": "Bio\u00e9tica",
+        "formattedName": "B"
+    },
+    {
+        "name": "Biof\u00edsica",
+        "formattedName": "B"
+    },
+    {
+        "name": "Biof\u00edsica de Membranas",
+        "formattedName": "BM"
+    },
+    {
+        "name": "Bioimped\u00e2ncia Aplicada",
+        "formattedName": "BA"
+    },
+    {
+        "name": "Biologia Celular",
+        "formattedName": "BC"
+    },
+    {
+        "name": "Biologia do Desenvolvimento em Vertebrados",
+        "formattedName": "BDV"
+    },
+    {
+        "name": "Biologia Molecular e Biotecnologia",
+        "formattedName": "BMB"
+    },
+    {
+        "name": "Biologia Reprodutiva de Plantas",
+        "formattedName": "BRP"
+    },
+    {
+        "name": "Biologia Sint\u00e9tica",
+        "formattedName": "BS"
+    },
+    {
+        "name": "Biomas Brasileiros",
+        "formattedName": "BB"
+    },
+    {
+        "name": "Biomateriais",
+        "formattedName": "B"
+    },
+    {
+        "name": "Biomec\u00e2nica I",
+        "formattedName": "B"
+    },
+    {
+        "name": "Biomec\u00e2nica II",
+        "formattedName": "B"
+    },
+    {
+        "name": "Bioqu\u00edmica Cl\u00ednica",
+        "formattedName": "BC"
+    },
+    {
+        "name": "Bioqu\u00edmica do Sistema Nervoso Central",
+        "formattedName": "BSNC"
+    },
+    {
+        "name": "Bioqu\u00edmica Funcional",
+        "formattedName": "BF"
+    },
+    {
+        "name": "Bioqu\u00edmica: estrutura, propriedade e fun\u00e7\u00f5es de biomol\u00e9culas",
+        "formattedName": "BEPFB"
+    },
+    {
+        "name": "Biosseguran\u00e7a",
+        "formattedName": "B"
+    },
+    {
+        "name": "Biotecnologia Ambiental e Agroindustrial",
+        "formattedName": "BAA"
+    },
+    {
+        "name": "Biotecnologia Animal",
+        "formattedName": "BA"
+    },
+    {
+        "name": "Biotecnologia Humana",
+        "formattedName": "BH"
+    },
+    {
+        "name": "Biotecnologia Vegetal",
+        "formattedName": "BV"
+    },
+    {
+        "name": "Blendas Polim\u00e9ricas",
+        "formattedName": "BP"
+    },
+    {
+        "name": "Bombas Hidr\u00e1ulicas",
+        "formattedName": "BH"
+    },
+    {
+        "name": "Bot\u00e2nica Econ\u00f4mica",
+        "formattedName": "BE"
+    },
+    {
+        "name": "Brasil Independente",
+        "formattedName": "BI"
+    },
+    {
+        "name": "Brasil Republicano: da transi\u00e7\u00e3o monarquia-rep\u00fablica ao Estado Novo.",
+        "formattedName": "BRTMEN"
+    },
+    {
+        "name": "Brasil: coloniza\u00e7\u00e3o e resist\u00eancia",
+        "formattedName": "BCR"
+    },
+    {
+        "name": "Bromatologia e An\u00e1lise de Alimentos",
+        "formattedName": "BAA"
+    },
+    {
+        "name": "Burocracia e Implementa\u00e7\u00e3o de Pol\u00edticas P\u00fablicas",
+        "formattedName": "BIPP"
+    },
+    {
+        "name": "C\u00e1lculo de Probabilidade",
+        "formattedName": "CP"
+    },
+    {
+        "name": "C\u00e1lculo Num\u00e9rico",
+        "formattedName": "CN"
+    },
+    {
+        "name": "C\u00e1lculo Vetorial e Tensorial",
+        "formattedName": "CVT"
+    },
+    {
+        "name": "Capitalismo Contempor\u00e2neo",
+        "formattedName": "CC"
+    },
+    {
+        "name": "Capitalismo, Imperialismo e Depend\u00eancia",
+        "formattedName": "CID"
+    },
+    {
+        "name": "Caracteriza\u00e7\u00e3o Biol\u00f3gica de Dispositivos M\u00e9dicos",
+        "formattedName": "CBDM"
+    },
+    {
+        "name": "Caracteriza\u00e7\u00e3o de Biomateriais",
+        "formattedName": "CB"
+    },
+    {
+        "name": "Caracteriza\u00e7\u00e3o de Materiais",
+        "formattedName": "CM"
+    },
+    {
+        "name": "Caracteriza\u00e7\u00e3o de Matrizes Ambientais",
+        "formattedName": "CMA"
+    },
+    {
+        "name": "Cartografia e Geoprocessamento",
+        "formattedName": "CG"
+    },
+    {
+        "name": "Cartografia e Geoprocessamento para o Planejamento Territorial",
+        "formattedName": "CGPPT"
+    },
+    {
+        "name": "Cartografia escolar e inclusiva",
+        "formattedName": "CEI"
+    },
+    {
+        "name": "Centrais Termoel\u00e9tricas",
+        "formattedName": "CT"
+    },
+    {
+        "name": "Cer\u00e2micas Especiais e Refrat\u00e1rias",
+        "formattedName": "CER"
+    },
+    {
+        "name": "Ceticismo",
+        "formattedName": "C"
+    },
+    {
+        "name": "China nas Rela\u00e7\u00f5es Internacionais",
+        "formattedName": "CNRI"
+    },
+    {
+        "name": "Cidadania, Direitos e Desigualdades",
+        "formattedName": "CDD"
+    },
+    {
+        "name": "Ci\u00eancia dos Materiais",
+        "formattedName": "CDM"
+    },
+    {
+        "name": "Ci\u00eancia dos Materiais Biocompat\u00edveis",
+        "formattedName": "CDMB"
+    },
+    {
+        "name": "Ci\u00eancia e Culturas Antigas",
+        "formattedName": "CCA"
+    },
+    {
+        "name": "Ci\u00eancia, Sa\u00fade, Educa\u00e7\u00e3o e a Forma\u00e7\u00e3o da Nacionalidade",
+        "formattedName": "CSEFN"
+    },
+    {
+        "name": "Ci\u00eancia, Tecnologia e Sociedade",
+        "formattedName": "CTS"
+    },
+    {
+        "name": "Ci\u00eancias Atmosf\u00e9ricas",
+        "formattedName": "CA"
+    },
+    {
+        "name": "Cinem\u00e1tica e Din\u00e2mica de Mecanismos",
+        "formattedName": "CDM"
+    },
+    {
+        "name": "Cin\u00e9tica Qu\u00edmica",
+        "formattedName": "CQ"
+    },
+    {
+        "name": "Circuitos Digitais",
+        "formattedName": "CD"
+    },
+    {
+        "name": "Circuitos El\u00e9tricos e Fot\u00f4nica",
+        "formattedName": "CEF"
+    },
+    {
+        "name": "Circuitos El\u00e9tricos I",
+        "formattedName": "CE"
+    },
+    {
+        "name": "Circuitos El\u00e9tricos II",
+        "formattedName": "CE"
+    },
+    {
+        "name": "Circuitos Hidr\u00e1ulicos e Pneum\u00e1ticos",
+        "formattedName": "CHP"
+    },
+    {
+        "name": "Citogen\u00e9tica B\u00e1sica",
+        "formattedName": "CB"
+    },
+    {
+        "name": "Clima e Cultura Organizacional",
+        "formattedName": "CCO"
+    },
+    {
+        "name": "Clima Urbano",
+        "formattedName": "CU"
+    },
+    {
+        "name": "Climatologia",
+        "formattedName": "C"
+    },
+    {
+        "name": "Cl\u00ednica de Direitos Humanos e Pol\u00edticas P\u00fablicas",
+        "formattedName": "CDHPP"
+    },
+    {
+        "name": "Codifica\u00e7\u00e3o de Sinais Multim\u00eddia",
+        "formattedName": "CSM"
+    },
+    {
+        "name": "Cogera\u00e7\u00e3o",
+        "formattedName": "C"
+    },
+    {
+        "name": "Colonialismo Ib\u00e9rico",
+        "formattedName": "CI"
+    },
+    {
+        "name": "Combinat\u00f3ria Extremal",
+        "formattedName": "CE"
+    },
+    {
+        "name": "Combust\u00e3o I",
+        "formattedName": "C"
+    },
+    {
+        "name": "Combust\u00e3o II",
+        "formattedName": "C"
+    },
+    {
+        "name": "Compiladores e Interpretadores",
+        "formattedName": "CI"
+    },
+    {
+        "name": "Compostagem",
+        "formattedName": "C"
+    },
+    {
+        "name": "Computabilidade e Complexidade",
+        "formattedName": "CC"
+    },
+    {
+        "name": "Computa\u00e7\u00e3o Cient\u00edfica Aplicada a Problemas Biol\u00f3gicos",
+        "formattedName": "CCAPB"
+    },
+    {
+        "name": "Computa\u00e7\u00e3o Evolutiva e Conexionista",
+        "formattedName": "CEC"
+    },
+    {
+        "name": "Computa\u00e7\u00e3o Gr\u00e1fica",
+        "formattedName": "CG"
+    },
+    {
+        "name": "Computadores, \u00c9tica e Sociedade",
+        "formattedName": "C\u00c9S"
+    },
+    {
+        "name": "Comunica\u00e7\u00e3o Cient\u00edfica",
+        "formattedName": "CC"
+    },
+    {
+        "name": "Comunica\u00e7\u00e3o Digital",
+        "formattedName": "CD"
+    },
+    {
+        "name": "Comunica\u00e7\u00e3o e Redes",
+        "formattedName": "CR"
+    },
+    {
+        "name": "Comunica\u00e7\u00f5es M\u00f3veis",
+        "formattedName": "CM"
+    },
+    {
+        "name": "Comunica\u00e7\u00f5es \u00d3pticas",
+        "formattedName": "C\u00d3"
+    },
+    {
+        "name": "Conceitos de Marketing",
+        "formattedName": "CM"
+    },
+    {
+        "name": "Conceitos e Modelos da Qu\u00edmica Moderna",
+        "formattedName": "CMQM"
+    },
+    {
+        "name": "Confiabilidade de Componentes e Sistemas",
+        "formattedName": "CCS"
+    },
+    {
+        "name": "Confiabilidade Industrial em Sistemas de Gest\u00e3o",
+        "formattedName": "CISG"
+    },
+    {
+        "name": "Conflitos no Ciberespa\u00e7o: ativismo e guerra nas redes cibern\u00e9ticas",
+        "formattedName": "CCAGNRC"
+    },
+    {
+        "name": "Conflitos Sociais",
+        "formattedName": "CS"
+    },
+    {
+        "name": "Conflitos, Paz e Negocia\u00e7\u00e3o Internacional (pr\u00e1tica)",
+        "formattedName": "CPNI"
+    },
+    {
+        "name": "Conhecimento e T\u00e9cnica: Perspectivas da Antiguidade e Per\u00edodo Medieval",
+        "formattedName": "CTPAPM"
+    },
+    {
+        "name": "Conhecimento F\u00edsico e Linguagens",
+        "formattedName": "CFL"
+    },
+    {
+        "name": "Conhecimento na Economia: Abordagens e Interfaces com as Atividades de CT&I",
+        "formattedName": "CEAICAC"
+    },
+    {
+        "name": "Conserva\u00e7\u00e3o da Biodiversidade",
+        "formattedName": "CB"
+    },
+    {
+        "name": "Constru\u00e7\u00f5es Geom\u00e9tricas e Geometria M\u00e9trica",
+        "formattedName": "CGGM"
+    },
+    {
+        "name": "Contabilidade B\u00e1sica",
+        "formattedName": "CB"
+    },
+    {
+        "name": "Contabilidade para Engenharia",
+        "formattedName": "CPE"
+    },
+    {
+        "name": "Contamina\u00e7\u00e3o e Remedia\u00e7\u00e3o de Solos",
+        "formattedName": "CRS"
+    },
+    {
+        "name": "Contradi\u00e7\u00f5es e Dilemas do Setor Agr\u00e1rio Latino-Americano",
+        "formattedName": "CDSAL"
+    },
+    {
+        "name": "Controle N\u00e3o-Linear",
+        "formattedName": "CN"
+    },
+    {
+        "name": "Controle Robusto Multivari\u00e1vel",
+        "formattedName": "CRM"
+    },
+    {
+        "name": "Corpo, sexualidade e questo\u0303es de ge\u0302nero",
+        "formattedName": "CSQG"
+    },
+    {
+        "name": "Cristalografia e Difra\u00e7\u00e3o De Raios X",
+        "formattedName": "CDR"
+    },
+    {
+        "name": "Cultura Pol\u00edtica",
+        "formattedName": "CP"
+    },
+    {
+        "name": "Cultura, identidade e pol\u00edtica na Am\u00e9rica Latina",
+        "formattedName": "CIPAL"
+    },
+    {
+        "name": "Custos",
+        "formattedName": "C"
+    },
+    {
+        "name": "Demografia",
+        "formattedName": "D"
+    },
+    {
+        "name": "Desempenho de Aeronaves",
+        "formattedName": "DA"
+    },
+    {
+        "name": "Desenho e Projeto em Qu\u00edmica",
+        "formattedName": "DPQ"
+    },
+    {
+        "name": "Desenho Universal e Tecnologia Assistiva",
+        "formattedName": "DUTA"
+    },
+    {
+        "name": "Desenvolvimento e Aprendizagem",
+        "formattedName": "DA"
+    },
+    {
+        "name": "Desenvolvimento e Degenera\u00e7\u00e3o do Sistema Nervoso",
+        "formattedName": "DDSN"
+    },
+    {
+        "name": "Desenvolvimento e Sustentabilidade",
+        "formattedName": "DS"
+    },
+    {
+        "name": "Desenvolvimento Econ\u00f4mico e Social No Brasil",
+        "formattedName": "DESB"
+    },
+    {
+        "name": "Desenvolvimento Guiado por Tipos",
+        "formattedName": "DGPT"
+    },
+    {
+        "name": "Desenvolvimento Humano e Pobreza Urbana",
+        "formattedName": "DHPU"
+    },
+    {
+        "name": "Desenvolvimento Integrado do Produto",
+        "formattedName": "DIP"
+    },
+    {
+        "name": "Desenvolvimento Socioecon\u00f4mico",
+        "formattedName": "DS"
+    },
+    {
+        "name": "Design de Dispositivos",
+        "formattedName": "DD"
+    },
+    {
+        "name": "Desigualdade e diversidade: reflex\u00f5es sobre cultura, educa\u00e7\u00e3o e sociedade",
+        "formattedName": "DDRSCES"
+    },
+    {
+        "name": "Desigualdades de Ra\u00e7a, G\u00eanero e Renda",
+        "formattedName": "DRGR"
+    },
+    {
+        "name": "Deslocamento For\u00e7ado, Ref\u00fagio e humanitarismo",
+        "formattedName": "DFRH"
+    },
+    {
+        "name": "Diagramas de Fase",
+        "formattedName": "DF"
+    },
+    {
+        "name": "Di\u00e1logos Extensionistas em Economia",
+        "formattedName": "DEE"
+    },
+    {
+        "name": "Di\u00e1logos Interdisciplinares",
+        "formattedName": "DI"
+    },
+    {
+        "name": "Di\u00e1spora Africana",
+        "formattedName": "DA"
+    },
+    {
+        "name": "Di\u00e1sporas africanas e as Rela\u00e7\u00f5es Internacionais",
+        "formattedName": "DARI"
+    },
+    {
+        "name": "Did\u00e1tica",
+        "formattedName": "D"
+    },
+    {
+        "name": "Did\u00e1tica da Matem\u00e1tica",
+        "formattedName": "DM"
+    },
+    {
+        "name": "Din\u00e2mica das Estruturas",
+        "formattedName": "DDE"
+    },
+    {
+        "name": "Din\u00e2mica de Fluidos Computacional",
+        "formattedName": "DFC"
+    },
+    {
+        "name": "Din\u00e2mica de Gases",
+        "formattedName": "DG"
+    },
+    {
+        "name": "Din\u00e2mica do Voo",
+        "formattedName": "DV"
+    },
+    {
+        "name": "Din\u00e2mica dos Investimentos Produtivos Internacionais",
+        "formattedName": "DDIPI"
+    },
+    {
+        "name": "Din\u00e2mica e Controle de ve\u00edculos a\u00e9reos n\u00e3o-tripulados de asas rotativas",
+        "formattedName": "DCVANAR"
+    },
+    {
+        "name": "Din\u00e2mica e Controle de Ve\u00edculos Espaciais",
+        "formattedName": "DCVE"
+    },
+    {
+        "name": "Din\u00e2mica I",
+        "formattedName": "D"
+    },
+    {
+        "name": "Din\u00e2mica II",
+        "formattedName": "D"
+    },
+    {
+        "name": "Din\u00e2mica Molecular e Monte Carlo",
+        "formattedName": "DMMC"
+    },
+    {
+        "name": "Din\u00e2mica N\u00e3o Linear e Caos",
+        "formattedName": "DNLC"
+    },
+    {
+        "name": "Din\u00e2mica Orbital",
+        "formattedName": "DO"
+    },
+    {
+        "name": "Din\u00e2micas Territoriais e Rela\u00e7\u00f5es \u00c9tnico-Raciais No Brasil",
+        "formattedName": "DTR\u00c9B"
+    },
+    {
+        "name": "Direito Administrativo",
+        "formattedName": "DA"
+    },
+    {
+        "name": "Direito Constitucional",
+        "formattedName": "DC"
+    },
+    {
+        "name": "Direito Internacional Privado",
+        "formattedName": "DIP"
+    },
+    {
+        "name": "Direitos Humanos, Puni\u00e7\u00e3o e Pol\u00edticas P\u00fablicas",
+        "formattedName": "DHPPP"
+    },
+    {
+        "name": "Discuss\u00f5es Atuais em Filosofia da Ci\u00eancia",
+        "formattedName": "DAFC"
+    },
+    {
+        "name": "Dispositivos Eletr\u00f4nicos",
+        "formattedName": "DE"
+    },
+    {
+        "name": "Diversidade Cultural, Conhecimento Local e Pol\u00edticas P\u00fablicas",
+        "formattedName": "DCCLPP"
+    },
+    {
+        "name": "Diversidade de g\u00eanero e forma\u00e7\u00e3o de professor",
+        "formattedName": "DGFP"
+    },
+    {
+        "name": "Diversidades e cultura no mundo ocidental",
+        "formattedName": "DCMO"
+    },
+    {
+        "name": "Divulga\u00e7\u00e3o Cient\u00edfica em Biotecnologia",
+        "formattedName": "DCB"
+    },
+    {
+        "name": "Doen\u00e7as do Sistema Nervoso",
+        "formattedName": "DSN"
+    },
+    {
+        "name": "Ecologia Comportamental",
+        "formattedName": "EC"
+    },
+    {
+        "name": "Ecologia do Ambiente Urbano",
+        "formattedName": "EAU"
+    },
+    {
+        "name": "Ecologia Vegetal",
+        "formattedName": "EV"
+    },
+    {
+        "name": "Econometria I",
+        "formattedName": "E"
+    },
+    {
+        "name": "Econometria II",
+        "formattedName": "E"
+    },
+    {
+        "name": "Econometria III",
+        "formattedName": "EI"
+    },
+    {
+        "name": "Economia Brasileira Contempor\u00e2nea",
+        "formattedName": "EBC"
+    },
+    {
+        "name": "Economia Brasileira I",
+        "formattedName": "EB"
+    },
+    {
+        "name": "Economia Brasileira II",
+        "formattedName": "EB"
+    },
+    {
+        "name": "Economia Comportamental",
+        "formattedName": "EC"
+    },
+    {
+        "name": "Economia da Energia",
+        "formattedName": "EE"
+    },
+    {
+        "name": "Economia da Inova\u00e7\u00e3o Tecnol\u00f3gica",
+        "formattedName": "EIT"
+    },
+    {
+        "name": "Economia de Empresas",
+        "formattedName": "EE"
+    },
+    {
+        "name": "Economia De Reatores Nucleares",
+        "formattedName": "ERN"
+    },
+    {
+        "name": "Economia Din\u00e2mica em Tempo Cont\u00ednuo",
+        "formattedName": "EDTC"
+    },
+    {
+        "name": "Economia Din\u00e2mica em Tempo Discreto",
+        "formattedName": "EDTD"
+    },
+    {
+        "name": "Economia do Meio Ambiente",
+        "formattedName": "EMA"
+    },
+    {
+        "name": "Economia do Petr\u00f3leo e do G\u00e1s Natural",
+        "formattedName": "EPGN"
+    },
+    {
+        "name": "Economia do Setor P\u00fablico",
+        "formattedName": "ESP"
+    },
+    {
+        "name": "Economia do Territ\u00f3rio",
+        "formattedName": "ET"
+    },
+    {
+        "name": "Economia do Trabalho",
+        "formattedName": "ET"
+    },
+    {
+        "name": "Economia Industrial",
+        "formattedName": "EI"
+    },
+    {
+        "name": "Economia Institucional",
+        "formattedName": "EI"
+    },
+    {
+        "name": "Economia Matem\u00e1tica",
+        "formattedName": "EM"
+    },
+    {
+        "name": "Economia nas Escolas",
+        "formattedName": "ENE"
+    },
+    {
+        "name": "Economia Pol\u00edtca do Conhecimento no Sistema Mundial",
+        "formattedName": "EPCSM"
+    },
+    {
+        "name": "Economia Pol\u00edtica",
+        "formattedName": "EP"
+    },
+    {
+        "name": "Economia Pol\u00edtica Internacional",
+        "formattedName": "EPI"
+    },
+    {
+        "name": "Economia Pol\u00edtica Internacional da Energia",
+        "formattedName": "EPIE"
+    },
+    {
+        "name": "Economia Pol\u00edtica Internacional da Seguran\u00e7a Alimentar",
+        "formattedName": "EPISA"
+    },
+    {
+        "name": "Economia Urbana",
+        "formattedName": "EU"
+    },
+    {
+        "name": "Economia, Sociedade e Meio Ambiente",
+        "formattedName": "ESMA"
+    },
+    {
+        "name": "Educa\u00e7\u00e3o Ambiental",
+        "formattedName": "EA"
+    },
+    {
+        "name": "Educa\u00e7\u00e3o Cient\u00edfica, Sociedade e Cultura",
+        "formattedName": "ECSC"
+    },
+    {
+        "name": "Educa\u00e7\u00e3o e Desigualdades",
+        "formattedName": "ED"
+    },
+    {
+        "name": "Educa\u00e7\u00e3o em Direitos Humanos",
+        "formattedName": "EDH"
+    },
+    {
+        "name": "Educa\u00e7\u00e3o em Sa\u00fade",
+        "formattedName": "ES"
+    },
+    {
+        "name": "Educa\u00e7\u00e3o em Sa\u00fade e Sexualidade",
+        "formattedName": "ESS"
+    },
+    {
+        "name": "Educa\u00e7\u00e3o em Sexualidade",
+        "formattedName": "ES"
+    },
+    {
+        "name": "Educa\u00e7\u00e3o Estat\u00edstica",
+        "formattedName": "EE"
+    },
+    {
+        "name": "Educa\u00e7\u00e3o Inclusiva",
+        "formattedName": "EI"
+    },
+    {
+        "name": "Educa\u00e7\u00e3o N\u00e3o Formal, Informal e Popular",
+        "formattedName": "ENFIP"
+    },
+    {
+        "name": "Educa\u00e7\u00e3o patrimonial popular e cr\u00edtica",
+        "formattedName": "EPPC"
+    },
+    {
+        "name": "Efeitos Biol\u00f3gicos das Radia\u00e7\u00f5es",
+        "formattedName": "EBDR"
+    },
+    {
+        "name": "Efici\u00eancia Energ\u00e9tica Industrial",
+        "formattedName": "EEI"
+    },
+    {
+        "name": "Elabora\u00e7\u00e3o e An\u00e1lise de Cen\u00e1rios Econ\u00f4micos",
+        "formattedName": "EACE"
+    },
+    {
+        "name": "Elabora\u00e7\u00e3o, An\u00e1lise e Avalia\u00e7\u00e3o de Projetos",
+        "formattedName": "EAAP"
+    },
+    {
+        "name": "Elei\u00e7\u00f5es e Partidos Pol\u00edticos",
+        "formattedName": "EPP"
+    },
+    {
+        "name": "Elementos Finitos",
+        "formattedName": "EF"
+    },
+    {
+        "name": "Elementos Finitos Aplicados em Materiais",
+        "formattedName": "EFAM"
+    },
+    {
+        "name": "Eletrifica\u00e7\u00e3o Rural Com Recursos Energ\u00e9ticos Renov\u00e1veis",
+        "formattedName": "ERCRER"
+    },
+    {
+        "name": "Eletroanal\u00edtica e Instrumenta\u00e7\u00e3o em Qu\u00edmica",
+        "formattedName": "EIQ"
+    },
+    {
+        "name": "Eletrofisiologia e Hemodin\u00e2mica Card\u00edaca",
+        "formattedName": "EHC"
+    },
+    {
+        "name": "Eletromagnetismo Aplicado",
+        "formattedName": "EA"
+    },
+    {
+        "name": "Eletromagnetismo I",
+        "formattedName": "E"
+    },
+    {
+        "name": "Eletromagnetismo II",
+        "formattedName": "E"
+    },
+    {
+        "name": "Eletromagnetismo III",
+        "formattedName": "EI"
+    },
+    {
+        "name": "Eletr\u00f4nica Anal\u00f3gica Aplicada",
+        "formattedName": "EAA"
+    },
+    {
+        "name": "Eletr\u00f4nica de Pot\u00eancia I",
+        "formattedName": "EP"
+    },
+    {
+        "name": "Eletr\u00f4nica de Pot\u00eancia II",
+        "formattedName": "EP"
+    },
+    {
+        "name": "Eletr\u00f4nica Digital",
+        "formattedName": "ED"
+    },
+    {
+        "name": "Eletroqu\u00edmica",
+        "formattedName": "E"
+    },
+    {
+        "name": "Empreendedorismo",
+        "formattedName": "E"
+    },
+    {
+        "name": "Empreendedorismo e Desenvolvimento de Neg\u00f3cios",
+        "formattedName": "EDN"
+    },
+    {
+        "name": "Empreendedorismo e planejamento de projetos em Biotecnologia",
+        "formattedName": "EPPB"
+    },
+    {
+        "name": "Encontros sobre G\u00eanero e Sexualidades",
+        "formattedName": "ESGS"
+    },
+    {
+        "name": "Energia dos Oceanos",
+        "formattedName": "EDO"
+    },
+    {
+        "name": "Energia e Abastecimento",
+        "formattedName": "EA"
+    },
+    {
+        "name": "Energia e Meio Ambiente",
+        "formattedName": "EMA"
+    },
+    {
+        "name": "Energia Geot\u00e9rmica",
+        "formattedName": "EG"
+    },
+    {
+        "name": "Energia, Meio Ambiente e Sociedade",
+        "formattedName": "EMAS"
+    },
+    {
+        "name": "Engenharia de Biocombust\u00edveis",
+        "formattedName": "EB"
+    },
+    {
+        "name": "Engenharia de Cer\u00e2micas",
+        "formattedName": "EC"
+    },
+    {
+        "name": "Engenharia de Combust\u00edveis F\u00f3sseis",
+        "formattedName": "ECF"
+    },
+    {
+        "name": "Engenharia de Completa\u00e7\u00e3o",
+        "formattedName": "EC"
+    },
+    {
+        "name": "Engenharia de Filmes Finos",
+        "formattedName": "EFF"
+    },
+    {
+        "name": "Engenharia de Metais",
+        "formattedName": "EM"
+    },
+    {
+        "name": "Engenharia de Perfura\u00e7\u00e3o",
+        "formattedName": "EP"
+    },
+    {
+        "name": "Engenharia de Petr\u00f3leo e G\u00e1s",
+        "formattedName": "EPG"
+    },
+    {
+        "name": "Engenharia de Pol\u00edmeros",
+        "formattedName": "EP"
+    },
+    {
+        "name": "Engenharia de Reabilita\u00e7\u00e3o e Biofeedback",
+        "formattedName": "ERB"
+    },
+    {
+        "name": "Engenharia de Recursos H\u00eddricos",
+        "formattedName": "ERH"
+    },
+    {
+        "name": "Engenharia de Reservat\u00f3rios I",
+        "formattedName": "ER"
+    },
+    {
+        "name": "Engenharia de Reservat\u00f3rios II",
+        "formattedName": "ER"
+    },
+    {
+        "name": "Engenharia de seguran\u00e7a do trabalho",
+        "formattedName": "EST"
+    },
+    {
+        "name": "Engenharia de seguran\u00e7a do trabalho: ergonomia",
+        "formattedName": "ESTE"
+    },
+    {
+        "name": "Engenharia de Sistemas de Comunica\u00e7\u00e3o e Miss\u00e3o Cr\u00edtica",
+        "formattedName": "ESCMC"
+    },
+    {
+        "name": "Engenharia de Software",
+        "formattedName": "ES"
+    },
+    {
+        "name": "Engenharia de Tecidos",
+        "formattedName": "ET"
+    },
+    {
+        "name": "Engenharia do Biodiesel",
+        "formattedName": "EB"
+    },
+    {
+        "name": "Engenharia do Etanol",
+        "formattedName": "EE"
+    },
+    {
+        "name": "Engenharia Econ\u00f4mica",
+        "formattedName": "EE"
+    },
+    {
+        "name": "Engenharia Econ\u00f4mica Aplicada a Sistemas de Gest\u00e3o",
+        "formattedName": "EEASG"
+    },
+    {
+        "name": "Engenharia E\u00f3lica",
+        "formattedName": "EE"
+    },
+    {
+        "name": "Engenharia Humana",
+        "formattedName": "EH"
+    },
+    {
+        "name": "Engenharia Log\u00edstica",
+        "formattedName": "EL"
+    },
+    {
+        "name": "Engenharia Metab\u00f3lica",
+        "formattedName": "EM"
+    },
+    {
+        "name": "Engenharia Nuclear",
+        "formattedName": "EN"
+    },
+    {
+        "name": "Engenharia \u00d3ptica e Imagens",
+        "formattedName": "E\u00d3I"
+    },
+    {
+        "name": "Engenharia Solar Fotovoltaica",
+        "formattedName": "ESF"
+    },
+    {
+        "name": "Engenharia Solar T\u00e9rmica",
+        "formattedName": "EST"
+    },
+    {
+        "name": "Ensino de Astronomia para a Educa\u00e7\u00e3o B\u00e1sica",
+        "formattedName": "EAPEB"
+    },
+    {
+        "name": "Ensino de Hist\u00f3ria da \u00c1frica",
+        "formattedName": "EH\u00c1"
+    },
+    {
+        "name": "Ensino Interdisciplinar de Hist\u00f3ria",
+        "formattedName": "EIH"
+    },
+    {
+        "name": "Enzimologia e Biocat\u00e1lise",
+        "formattedName": "EB"
+    },
+    {
+        "name": "Epistemologia Anal\u00edtica",
+        "formattedName": "EA"
+    },
+    {
+        "name": "Epistemologia Feminista",
+        "formattedName": "EF"
+    },
+    {
+        "name": "Epistemologia Naturalizada",
+        "formattedName": "EN"
+    },
+    {
+        "name": "Epistemologias do Sul: Filosofias Amer\u00edndias",
+        "formattedName": "ESFA"
+    },
+    {
+        "name": "Epistemologias Formais",
+        "formattedName": "EF"
+    },
+    {
+        "name": "Equa\u00e7\u00f5es Diferenciais Ordin\u00e1rias",
+        "formattedName": "EDO"
+    },
+    {
+        "name": "Equa\u00e7\u00f5es Diferenciais Parciais",
+        "formattedName": "EDP"
+    },
+    {
+        "name": "Equa\u00e7\u00f5es Diferenciais Parciais Aplicadas",
+        "formattedName": "EDPA"
+    },
+    {
+        "name": "Equipamentos M\u00e9dico-Hospitalares",
+        "formattedName": "EM"
+    },
+    {
+        "name": "Ergonomia",
+        "formattedName": "E"
+    },
+    {
+        "name": "Ergonomia Cognitiva",
+        "formattedName": "EC"
+    },
+    {
+        "name": "Escoamento Multif\u00e1sico",
+        "formattedName": "EM"
+    },
+    {
+        "name": "Escrita e Leitura na Educa\u00e7\u00e3o em Ci\u00eancias",
+        "formattedName": "ELEC"
+    },
+    {
+        "name": "Espectroanal\u00edtica molecular e at\u00f4mica",
+        "formattedName": "EMA"
+    },
+    {
+        "name": "Espectroscopia",
+        "formattedName": "E"
+    },
+    {
+        "name": "Estabilidade e Controle de Aeronaves",
+        "formattedName": "ECA"
+    },
+    {
+        "name": "Estado e Desenvolvimento Econ\u00f4mico no Brasil Contempor\u00e2neo",
+        "formattedName": "EDEBC"
+    },
+    {
+        "name": "Estado e Rela\u00e7\u00f5es de Poder",
+        "formattedName": "ERP"
+    },
+    {
+        "name": "Estado S\u00f3lido",
+        "formattedName": "ES"
+    },
+    {
+        "name": "Estat\u00edstica Aplicada a Sistemas de Gest\u00e3o",
+        "formattedName": "EASG"
+    },
+    {
+        "name": "Est\u00e9tica",
+        "formattedName": "E"
+    },
+    {
+        "name": "Est\u00e9tica: Perspectivas Contempor\u00e2neas",
+        "formattedName": "EPC"
+    },
+    {
+        "name": "Estrat\u00e9gias de Comunica\u00e7\u00e3o Organizacional",
+        "formattedName": "ECO"
+    },
+    {
+        "name": "Estrat\u00e9gias de leitura, escrita e comunica\u00e7\u00e3o",
+        "formattedName": "ELEC"
+    },
+    {
+        "name": "Estrutura At\u00f4mica e Molecular",
+        "formattedName": "EAM"
+    },
+    {
+        "name": "Estrutura da Mat\u00e9ria",
+        "formattedName": "EM"
+    },
+    {
+        "name": "Estrutura da Mat\u00e9ria Avan\u00e7ada",
+        "formattedName": "EMA"
+    },
+    {
+        "name": "Estrutura e Din\u00e2mica Social",
+        "formattedName": "EDS"
+    },
+    {
+        "name": "Estruturalismo e P\u00f3s-Estruturalismo",
+        "formattedName": "EP"
+    },
+    {
+        "name": "Estudos de G\u00eanero",
+        "formattedName": "EG"
+    },
+    {
+        "name": "Estudos do Meio F\u00edsico",
+        "formattedName": "EMF"
+    },
+    {
+        "name": "Estudos Estrat\u00e9gicos e Defesa",
+        "formattedName": "EED"
+    },
+    {
+        "name": "Estudos \u00c9tnico-Raciais",
+        "formattedName": "E\u00c9"
+    },
+    {
+        "name": "Estudos Queer e Educa\u00e7\u00e3o",
+        "formattedName": "EQE"
+    },
+    {
+        "name": "\u00c9tica",
+        "formattedName": "\u00c9"
+    },
+    {
+        "name": "\u00c9tica Contempor\u00e2nea",
+        "formattedName": "\u00c9C"
+    },
+    {
+        "name": "\u00c9tica e Conhecimento",
+        "formattedName": "\u00c9C"
+    },
+    {
+        "name": "\u00c9tica e Justi\u00e7a",
+        "formattedName": "\u00c9J"
+    },
+    {
+        "name": "Etnofarmacologia",
+        "formattedName": "E"
+    },
+    {
+        "name": "Europa Medieval: Cultura, Pol\u00edtica e Sociedade",
+        "formattedName": "EMCPS"
+    },
+    {
+        "name": "Europa Moderna e Contempor\u00e2nea: Cultura e Processos Pol\u00edticos",
+        "formattedName": "EMCCPP"
+    },
+    {
+        "name": "Evolu\u00e7\u00e3o",
+        "formattedName": "E"
+    },
+    {
+        "name": "Evolu\u00e7\u00e3o da F\u00edsica I",
+        "formattedName": "EF"
+    },
+    {
+        "name": "Evolu\u00e7\u00e3o da F\u00edsica II",
+        "formattedName": "EF"
+    },
+    {
+        "name": "Evolu\u00e7\u00e3o dos Conceitos Matem\u00e1ticos",
+        "formattedName": "EDCM"
+    },
+    {
+        "name": "Evolu\u00e7\u00e3o e Diversidade de Plantas I",
+        "formattedName": "EDP"
+    },
+    {
+        "name": "Evolu\u00e7\u00e3o e Diversidade de Plantas II",
+        "formattedName": "EDP"
+    },
+    {
+        "name": "Evolu\u00e7\u00e3o e Diversifica\u00e7\u00e3o da Vida na Terra",
+        "formattedName": "EDVT"
+    },
+    {
+        "name": "Evolu\u00e7\u00e3o Molecular",
+        "formattedName": "EM"
+    },
+    {
+        "name": "Experimenta\u00e7\u00e3o e Ensino de Qu\u00edmica",
+        "formattedName": "EEQ"
+    },
+    {
+        "name": "Farmacologia",
+        "formattedName": "F"
+    },
+    {
+        "name": "Federalismo e Pol\u00edticas P\u00fablicas",
+        "formattedName": "FPP"
+    },
+    {
+        "name": "Fenomenologia e Filosofia Hermen\u00eautica",
+        "formattedName": "FFH"
+    },
+    {
+        "name": "Fen\u00f4menos de Transporte",
+        "formattedName": "FT"
+    },
+    {
+        "name": "Fen\u00f4menos Eletromagn\u00e9ticos",
+        "formattedName": "ELETROMAG"
+    },
+    {
+        "name": "Fen\u00f4menos Mec\u00e2nicos",
+        "formattedName": "FEMEC"
+    },
+    {
+        "name": "Fen\u00f4menos T\u00e9rmicos",
+        "formattedName": "FETERM"
+    },
+    {
+        "name": "Fibrados e Conex\u00f5es",
+        "formattedName": "FC"
+    },
+    {
+        "name": "Filosofia Africana",
+        "formattedName": "FA"
+    },
+    {
+        "name": "Filosofia Brasileira: Hist\u00f3ria e Problemas",
+        "formattedName": "FBHP"
+    },
+    {
+        "name": "Filosofia da Arte",
+        "formattedName": "FA"
+    },
+    {
+        "name": "Filosofia da Ci\u00eancia",
+        "formattedName": "FC"
+    },
+    {
+        "name": "Filosofia da Educa\u00e7\u00e3o",
+        "formattedName": "FE"
+    },
+    {
+        "name": "Filosofia da Educa\u00e7\u00e3o: perspectivas contempor\u00e2neas",
+        "formattedName": "FEPC"
+    },
+    {
+        "name": "Filosofia da Escola: Modelos Institucionais e Quest\u00f5es Filos\u00f3ficas",
+        "formattedName": "FEMIQF"
+    },
+    {
+        "name": "Filosofia da Hist\u00f3ria",
+        "formattedName": "FH"
+    },
+    {
+        "name": "Filosofia da Linguagem",
+        "formattedName": "FL"
+    },
+    {
+        "name": "Filosofia da Matem\u00e1tica",
+        "formattedName": "FM"
+    },
+    {
+        "name": "Filosofia da Mente",
+        "formattedName": "FM"
+    },
+    {
+        "name": "Filosofia da Natureza, Mecanicismo e Cosmologia",
+        "formattedName": "FNMC"
+    },
+    {
+        "name": "Filosofia da Qu\u00edmica",
+        "formattedName": "FQ"
+    },
+    {
+        "name": "Filosofia da Tecnologia",
+        "formattedName": "FT"
+    },
+    {
+        "name": "Filosofia do Ensino de Filosofia",
+        "formattedName": "FEF"
+    },
+    {
+        "name": "Filosofia e sociedade civil em movimento(s)",
+        "formattedName": "FSCM"
+    },
+    {
+        "name": "Filosofia e Teatro",
+        "formattedName": "FT"
+    },
+    {
+        "name": "Filosofia Experimental e Mecanicismo",
+        "formattedName": "FEM"
+    },
+    {
+        "name": "Filosofia no Brasil e na Am\u00e9rica Latina",
+        "formattedName": "FBAL"
+    },
+    {
+        "name": "Filosofia no Ensino Fundamental",
+        "formattedName": "FEF"
+    },
+    {
+        "name": "Filosofia Pol\u00edtica",
+        "formattedName": "FP"
+    },
+    {
+        "name": "Filosofia Pol\u00edtica Contempor\u00e2nea",
+        "formattedName": "FPC"
+    },
+    {
+        "name": "Filosofia, Ensino e Universidade",
+        "formattedName": "FEU"
+    },
+    {
+        "name": "Filosofia, Fotografia e Arte Na Era das Redes",
+        "formattedName": "FFAEDR"
+    },
+    {
+        "name": "Filosofia, M\u00fasica e Literatura",
+        "formattedName": "FML"
+    },
+    {
+        "name": "Filtragem Adaptativa",
+        "formattedName": "FA"
+    },
+    {
+        "name": "Finan\u00e7as Corporativas",
+        "formattedName": "FC"
+    },
+    {
+        "name": "Finan\u00e7as I",
+        "formattedName": "F"
+    },
+    {
+        "name": "Finan\u00e7as II",
+        "formattedName": "F"
+    },
+    {
+        "name": "Finan\u00e7as P\u00fablicas",
+        "formattedName": "FP"
+    },
+    {
+        "name": "Finan\u00e7as, Gest\u00e3o e Administra\u00e7\u00e3o Financeira",
+        "formattedName": "FGAF"
+    },
+    {
+        "name": "F\u00edsica Computacional",
+        "formattedName": "FC"
+    },
+    {
+        "name": "F\u00edsica de Reatores Nucleares",
+        "formattedName": "FRN"
+    },
+    {
+        "name": "F\u00edsica De Reatores Nucleares II",
+        "formattedName": "FRN"
+    },
+    {
+        "name": "F\u00edsica de Semicondutores",
+        "formattedName": "FS"
+    },
+    {
+        "name": "F\u00edsica do Cont\u00ednuo",
+        "formattedName": "FC"
+    },
+    {
+        "name": "F\u00edsica do Meio Ambiente",
+        "formattedName": "FMA"
+    },
+    {
+        "name": "F\u00edsica Experimental I",
+        "formattedName": "FE"
+    },
+    {
+        "name": "F\u00edsica Experimental II",
+        "formattedName": "FE"
+    },
+    {
+        "name": "F\u00edsica Experimental III",
+        "formattedName": "FEI"
+    },
+    {
+        "name": "F\u00edsica Experimental IV",
+        "formattedName": "FE"
+    },
+    {
+        "name": "F\u00edsica M\u00e9dica I",
+        "formattedName": "FM"
+    },
+    {
+        "name": "F\u00edsica M\u00e9dica II",
+        "formattedName": "FM"
+    },
+    {
+        "name": "F\u00edsica Ondulat\u00f3ria",
+        "formattedName": "FO"
+    },
+    {
+        "name": "F\u00edsica Qu\u00e2ntica",
+        "formattedName": "FQ"
+    },
+    {
+        "name": "F\u00edsica T\u00e9rmica",
+        "formattedName": "FT"
+    },
+    {
+        "name": "F\u00edsico-qu\u00edmica Experimental",
+        "formattedName": "FE"
+    },
+    {
+        "name": "Fisiologia Vegetal I",
+        "formattedName": "FV"
+    },
+    {
+        "name": "Fisiologia Vegetal II",
+        "formattedName": "FV"
+    },
+    {
+        "name": "Forma\u00e7\u00e3o do Sistema Internacional",
+        "formattedName": "FSI"
+    },
+    {
+        "name": "Forma\u00e7\u00e3o Econ\u00f4mica do Brasil",
+        "formattedName": "FEB"
+    },
+    {
+        "name": "Forma\u00e7\u00e3o Hist\u00f3rica da Am\u00e9rica Latina",
+        "formattedName": "FHAL"
+    },
+    {
+        "name": "Fot\u00f4nica",
+        "formattedName": "F"
+    },
+    {
+        "name": "Fun\u00e7\u00f5es de uma Vari\u00e1vel",
+        "formattedName": "FUV"
+    },
+    {
+        "name": "Fun\u00e7\u00f5es de V\u00e1rias Vari\u00e1veis",
+        "formattedName": "FVV"
+    },
+    {
+        "name": "Fun\u00e7\u00f5es Especiais e Teoria de Representa\u00e7\u00f5es de Grupos",
+        "formattedName": "FETRG"
+    },
+    {
+        "name": "Fundamentos da Biotecnologia",
+        "formattedName": "FB"
+    },
+    {
+        "name": "Fundamentos da Computa\u00e7\u00e3o Sem\u00e2ntica",
+        "formattedName": "FCS"
+    },
+    {
+        "name": "Fundamentos da Relatividade Geral",
+        "formattedName": "FRG"
+    },
+    {
+        "name": "Fundamentos de \u00c1lgebra",
+        "formattedName": "F\u00c1"
+    },
+    {
+        "name": "Fundamentos de An\u00e1lise",
+        "formattedName": "FA"
+    },
+    {
+        "name": "Fundamentos de Convers\u00e3o de Energia El\u00e9trica",
+        "formattedName": "FCEE"
+    },
+    {
+        "name": "Fundamentos de Desenho T\u00e9cnico",
+        "formattedName": "FDT"
+    },
+    {
+        "name": "Fundamentos de Eletromagnetismo Aplicado",
+        "formattedName": "FEA"
+    },
+    {
+        "name": "Fundamentos de Eletr\u00f4nica Anal\u00f3gica e Digital",
+        "formattedName": "FEAD"
+    },
+    {
+        "name": "Fundamentos de Fisiopatologia para Engenharias I",
+        "formattedName": "FFPE"
+    },
+    {
+        "name": "Fundamentos de Fisiopatologia para Engenharias II",
+        "formattedName": "FFPE"
+    },
+    {
+        "name": "Fundamentos de Fisiopatologia para Engenharias III",
+        "formattedName": "FFPEI"
+    },
+    {
+        "name": "Fundamentos de Fot\u00f4nica",
+        "formattedName": "FF"
+    },
+    {
+        "name": "Fundamentos de Geologia para Engenharia",
+        "formattedName": "FGPE"
+    },
+    {
+        "name": "Fundamentos de Imunologia",
+        "formattedName": "FI"
+    },
+    {
+        "name": "Fundamentos de M\u00e1quinas T\u00e9rmicas",
+        "formattedName": "FMT"
+    },
+    {
+        "name": "Fundamentos de Navega\u00e7\u00e3o Inercial e GNSS",
+        "formattedName": "FNIG"
+    },
+    {
+        "name": "Fundamentos de Processamento Gr\u00e1fico",
+        "formattedName": "FPG"
+    },
+    {
+        "name": "Fundamentos de Qu\u00edmica",
+        "formattedName": "FQ"
+    },
+    {
+        "name": "Fundamentos de Rea\u00e7\u00f5es Org\u00e2nicas",
+        "formattedName": "FRO"
+    },
+    {
+        "name": "Fundamentos de Rob\u00f3tica",
+        "formattedName": "FR"
+    },
+    {
+        "name": "Fundamentos de Sinais e Sistemas em Tempo Discreto",
+        "formattedName": "FSSTD"
+    },
+    {
+        "name": "Fundamentos de Sistemas Din\u00e2micos",
+        "formattedName": "FSD"
+    },
+    {
+        "name": "Fundamentos do ensino de Geografia",
+        "formattedName": "FEG"
+    },
+    {
+        "name": "Fundamentos Psicoantropol\u00f3gicos da Educa\u00e7\u00e3o",
+        "formattedName": "FPE"
+    },
+    {
+        "name": "G\u00eanero, Ra\u00e7a, Classe e Sexualidade",
+        "formattedName": "GRCS"
+    },
+    {
+        "name": "Gen\u00e9tica I",
+        "formattedName": "G"
+    },
+    {
+        "name": "Gen\u00e9tica II",
+        "formattedName": "G"
+    },
+    {
+        "name": "Gen\u00f4mica e P\u00f3s-Gen\u00f4mica",
+        "formattedName": "GP"
+    },
+    {
+        "name": "Geografia Agr\u00e1ria",
+        "formattedName": "GA"
+    },
+    {
+        "name": "Geografia das ind\u00fastrias e movimentos oper\u00e1rios no ABC",
+        "formattedName": "GDIMOA"
+    },
+    {
+        "name": "Geografia Urbana",
+        "formattedName": "GU"
+    },
+    {
+        "name": "Geologia e Paleontologia",
+        "formattedName": "GP"
+    },
+    {
+        "name": "Geologia Geral",
+        "formattedName": "GG"
+    },
+    {
+        "name": "Geometria Anal\u00edtica",
+        "formattedName": "GA"
+    },
+    {
+        "name": "Geometria Diferencial",
+        "formattedName": "GD"
+    },
+    {
+        "name": "Geometria dos Espa\u00e7os M\u00e9tricos",
+        "formattedName": "GDEM"
+    },
+    {
+        "name": "Geometria N\u00e3o Euclidiana",
+        "formattedName": "GNE"
+    },
+    {
+        "name": "Geometria Plana Axiom\u00e1tica",
+        "formattedName": "GPA"
+    },
+    {
+        "name": "Geomorfologia",
+        "formattedName": "G"
+    },
+    {
+        "name": "Geopol\u00edtica",
+        "formattedName": "G"
+    },
+    {
+        "name": "Geopol\u00edtica do Petr\u00f3leo e o Desenvolvimento brasileiro",
+        "formattedName": "GPDB"
+    },
+    {
+        "name": "Geotecnia",
+        "formattedName": "G"
+    },
+    {
+        "name": "Geotecnia Aplicada ao Planejamento Urbano-Ambiental",
+        "formattedName": "GAPU"
+    },
+    {
+        "name": "Gera\u00e7\u00e3o de Vapor",
+        "formattedName": "GV"
+    },
+    {
+        "name": "Gera\u00e7\u00e3o Distribu\u00edda",
+        "formattedName": "GD"
+    },
+    {
+        "name": "Ger\u00eancia de Ativos",
+        "formattedName": "GA"
+    },
+    {
+        "name": "Gerenciamento e Interoperabilidade de Redes",
+        "formattedName": "GIR"
+    },
+    {
+        "name": "Gest\u00e3o ambiental empresarial",
+        "formattedName": "GAE"
+    },
+    {
+        "name": "Gest\u00e3o Ambiental Na Ind\u00fastria",
+        "formattedName": "GAI"
+    },
+    {
+        "name": "Gest\u00e3o da Inova\u00e7\u00e3o",
+        "formattedName": "GI"
+    },
+    {
+        "name": "Gest\u00e3o da Qualidade, Seguran\u00e7a, Sa\u00fade e Ambiental Aplicada em Projetos",
+        "formattedName": "GQSSAAP"
+    },
+    {
+        "name": "Gest\u00e3o de Custos Avan\u00e7ada",
+        "formattedName": "GCA"
+    },
+    {
+        "name": "Gest\u00e3o de Opera\u00e7\u00f5es",
+        "formattedName": "GO"
+    },
+    {
+        "name": "Gest\u00e3o de Projetos Culturais",
+        "formattedName": "GPC"
+    },
+    {
+        "name": "Gest\u00e3o de Projetos de Software",
+        "formattedName": "GPS"
+    },
+    {
+        "name": "Gest\u00e3o de Tecnologia Hospitalar I",
+        "formattedName": "GTH"
+    },
+    {
+        "name": "Gest\u00e3o de Tecnologia Hospitalar II",
+        "formattedName": "GTH"
+    },
+    {
+        "name": "Gest\u00e3o Educacional: Pol\u00edticas, Processos e Cotidiano Escolar",
+        "formattedName": "GEPPCE"
+    },
+    {
+        "name": "Gest\u00e3o Estrat\u00e9gica e Organizacional",
+        "formattedName": "GEO"
+    },
+    {
+        "name": "Gest\u00e3o Urbano-Ambiental",
+        "formattedName": "GU"
+    },
+    {
+        "name": "Governan\u00e7a P\u00fablica, Democracia e Pol\u00edticas No Territ\u00f3rio",
+        "formattedName": "GPDPT"
+    },
+    {
+        "name": "Governan\u00e7a, Pol\u00edticas P\u00fablicas e Resist\u00eancia em Tempos de Crises M\u00faltiplas",
+        "formattedName": "GPPRTCM"
+    },
+    {
+        "name": "Grupo Fundamental e Espa\u00e7o de Recobrimento",
+        "formattedName": "GFER"
+    },
+    {
+        "name": "Habita\u00e7\u00e3o e Assentamentos Humanos",
+        "formattedName": "HAH"
+    },
+    {
+        "name": "Hidr\u00e1ulica de Condutos For\u00e7ados",
+        "formattedName": "HCF"
+    },
+    {
+        "name": "Hidr\u00e1ulica de Condutos Livres",
+        "formattedName": "HCL"
+    },
+    {
+        "name": "Hidrog\u00eanio e C\u00e9lulas a Combust\u00edvel",
+        "formattedName": "HCC"
+    },
+    {
+        "name": "Hidrologia",
+        "formattedName": "H"
+    },
+    {
+        "name": "Hidrologia Urbana",
+        "formattedName": "HU"
+    },
+    {
+        "name": "Histologia e Embriologia",
+        "formattedName": "HE"
+    },
+    {
+        "name": "Hist\u00f3ria Cultural",
+        "formattedName": "HC"
+    },
+    {
+        "name": "Hist\u00f3ria da Astronomia",
+        "formattedName": "HA"
+    },
+    {
+        "name": "Hist\u00f3ria da Cidade e do Urbanismo",
+        "formattedName": "HCU"
+    },
+    {
+        "name": "Hist\u00f3ria da Cidade e do Urbanismo",
+        "formattedName": "HCU"
+    },
+    {
+        "name": "Hist\u00f3ria da democracia e dos regimes autorit\u00e1rios no Brasil contempor\u00e2neo",
+        "formattedName": "HDDRABC"
+    },
+    {
+        "name": "Hist\u00f3ria da Educa\u00e7\u00e3o",
+        "formattedName": "HE"
+    },
+    {
+        "name": "Hist\u00f3ria da Filosofia Antiga Cl\u00e1ssica",
+        "formattedName": "HFAC"
+    },
+    {
+        "name": "Hist\u00f3ria da Filosofia Antiga Helen\u00edstica",
+        "formattedName": "HFAH"
+    },
+    {
+        "name": "Hist\u00f3ria da Filosofia Contempor\u00e2nea: o S\u00e9culo XIX",
+        "formattedName": "HFCSX"
+    },
+    {
+        "name": "Hist\u00f3ria da Filosofia Contempor\u00e2nea: o S\u00e9culo XX",
+        "formattedName": "HFCS"
+    },
+    {
+        "name": "Hist\u00f3ria da Filosofia da Antiguidade Tardia",
+        "formattedName": "HFAT"
+    },
+    {
+        "name": "Hist\u00f3ria da Filosofia em perspectiva global",
+        "formattedName": "HFPG"
+    },
+    {
+        "name": "Hist\u00f3ria da Filosofia Medieval: do S\u00e9culo IV ao X",
+        "formattedName": "HFMS"
+    },
+    {
+        "name": "Hist\u00f3ria da Filosofia Medieval: do S\u00e9culo XI ao XIV",
+        "formattedName": "HFMSX"
+    },
+    {
+        "name": "Hist\u00f3ria da Filosofia Moderna: A Filosofia Cr\u00edtica",
+        "formattedName": "HFMFC"
+    },
+    {
+        "name": "Hist\u00f3ria da Filosofia Moderna: o Iluminismo e seus desdobramentos",
+        "formattedName": "HFMISD"
+    },
+    {
+        "name": "Hist\u00f3ria da Filosofia Moderna: Perspectivas Racionalistas",
+        "formattedName": "HFMPR"
+    },
+    {
+        "name": "Hist\u00f3ria da Filosofia no Renascimento",
+        "formattedName": "HFR"
+    },
+    {
+        "name": "Hist\u00f3ria da F\u00edsica no Brasil",
+        "formattedName": "HFB"
+    },
+    {
+        "name": "Hist\u00f3ria da Matem\u00e1tica",
+        "formattedName": "HM"
+    },
+    {
+        "name": "Hist\u00f3ria da Pol\u00edtica Externa Brasileira",
+        "formattedName": "HPEB"
+    },
+    {
+        "name": "Hist\u00f3ria da Qu\u00edmica",
+        "formattedName": "HQ"
+    },
+    {
+        "name": "Hist\u00f3ria das Ci\u00eancias no Brasil",
+        "formattedName": "HDCB"
+    },
+    {
+        "name": "Hist\u00f3ria das Ideias Biol\u00f3gicas",
+        "formattedName": "HDIB"
+    },
+    {
+        "name": "Hist\u00f3ria das Institui\u00e7\u00f5es Pol\u00edticas Brasileiras",
+        "formattedName": "HDIPB"
+    },
+    {
+        "name": "Hist\u00f3ria do Brasil Afrocentrada",
+        "formattedName": "HBA"
+    },
+    {
+        "name": "Hist\u00f3ria do Pensamento Econ\u00f4mico",
+        "formattedName": "HPE"
+    },
+    {
+        "name": "Hist\u00f3ria do Pensamento Geogr\u00e1fico",
+        "formattedName": "HPG"
+    },
+    {
+        "name": "Hist\u00f3ria do Terceiro Mundo",
+        "formattedName": "HTM"
+    },
+    {
+        "name": "Hist\u00f3ria dos Povos Ind\u00edgenas Brasileiros",
+        "formattedName": "HDPIB"
+    },
+    {
+        "name": "Hist\u00f3ria e Ambiente",
+        "formattedName": "HA"
+    },
+    {
+        "name": "Hist\u00f3ria e Filosofia da Biologia",
+        "formattedName": "HFB"
+    },
+    {
+        "name": "Hist\u00f3ria e Filosofia da Ci\u00eancia",
+        "formattedName": "HFC"
+    },
+    {
+        "name": "Hist\u00f3ria e Filosofia da Economia e das Ci\u00eancias Sociais",
+        "formattedName": "HFEDCS"
+    },
+    {
+        "name": "Hist\u00f3ria e Filosofia da F\u00edsica",
+        "formattedName": "HFF"
+    },
+    {
+        "name": "Hist\u00f3ria e Filosofia da Psicologia e das Ci\u00eancias Cognitivas",
+        "formattedName": "HFPDCC"
+    },
+    {
+        "name": "Hist\u00f3ria e Filosofia das Ci\u00eancias e o Ensino de Ci\u00eancias",
+        "formattedName": "HFDCEC"
+    },
+    {
+        "name": "Hist\u00f3ria e G\u00eanero",
+        "formattedName": "HG"
+    },
+    {
+        "name": "Hist\u00f3ria Econ\u00f4mica Geral",
+        "formattedName": "HEG"
+    },
+    {
+        "name": "Hist\u00f3ria, Eurocentrismo e P\u00f3s-Colonialismo",
+        "formattedName": "HEP"
+    },
+    {
+        "name": "Hist\u00f3ria, Patrim\u00f4nio e Mem\u00f3ria",
+        "formattedName": "HPM"
+    },
+    {
+        "name": "Idealismo Alem\u00e3o",
+        "formattedName": "IA"
+    },
+    {
+        "name": "Identidade e Cultura",
+        "formattedName": "IC"
+    },
+    {
+        "name": "Ilumina\u00e7\u00e3o Rural Fotovoltaica",
+        "formattedName": "IRF"
+    },
+    {
+        "name": "Impacto Ambiental e Social Na Cadeia de Produ\u00e7\u00e3o de Petr\u00f3leo",
+        "formattedName": "IASCPP"
+    },
+    {
+        "name": "Implementa\u00e7\u00e3o de Bancos de Dados",
+        "formattedName": "IBD"
+    },
+    {
+        "name": "Imunologia Aplicada",
+        "formattedName": "IA"
+    },
+    {
+        "name": "Indicadores de Pol\u00edticas P\u00fablicas",
+        "formattedName": "IPP"
+    },
+    {
+        "name": "Infer\u00eancia Estat\u00edstica",
+        "formattedName": "IE"
+    },
+    {
+        "name": "Informa\u00e7\u00e3o e Sociedade",
+        "formattedName": "IS"
+    },
+    {
+        "name": "Inform\u00e1tica Aplicada ao Planejamento Territorial",
+        "formattedName": "IAPT"
+    },
+    {
+        "name": "Inform\u00e1tica Industrial",
+        "formattedName": "II"
+    },
+    {
+        "name": "Inova\u00e7\u00e3o Estrat\u00e9gica",
+        "formattedName": "IE"
+    },
+    {
+        "name": "Inova\u00e7\u00e3o nos Servi\u00e7os P\u00fablicos",
+        "formattedName": "INSP"
+    },
+    {
+        "name": "Inova\u00e7\u00e3o Tecnol\u00f3gica",
+        "formattedName": "IT"
+    },
+    {
+        "name": "Inova\u00e7\u00f5es para Engenharia",
+        "formattedName": "IPE"
+    },
+    {
+        "name": "Instala\u00e7\u00f5es El\u00e9tricas I",
+        "formattedName": "IE"
+    },
+    {
+        "name": "Instala\u00e7\u00f5es El\u00e9tricas II",
+        "formattedName": "IE"
+    },
+    {
+        "name": "Institui\u00e7\u00f5es Judiciais e Pol\u00edticas P\u00fablicas",
+        "formattedName": "IJPP"
+    },
+    {
+        "name": "Institui\u00e7\u00f5es, Mercado e Poder",
+        "formattedName": "IMP"
+    },
+    {
+        "name": "Instrumenta\u00e7\u00e3o Biom\u00e9dica I",
+        "formattedName": "IB"
+    },
+    {
+        "name": "Instrumenta\u00e7\u00e3o Biom\u00e9dica II",
+        "formattedName": "IB"
+    },
+    {
+        "name": "Instrumenta\u00e7\u00e3o e Controle",
+        "formattedName": "IC"
+    },
+    {
+        "name": "Instrumenta\u00e7\u00e3o e Metrologia \u00d3ptica",
+        "formattedName": "IM\u00d3"
+    },
+    {
+        "name": "Instrumenta\u00e7\u00e3o e Sensores em Ve\u00edculos Aeroespaciais",
+        "formattedName": "ISVA"
+    },
+    {
+        "name": "Instrumenta\u00e7\u00e3o em RF e Micro-Ondas",
+        "formattedName": "IM"
+    },
+    {
+        "name": "Instrumenta\u00e7\u00e3o para o Ensino de Ci\u00eancias e Biologia",
+        "formattedName": "IPECB"
+    },
+    {
+        "name": "Integra\u00e7\u00e3o e Otimiza\u00e7\u00e3o Energ\u00e9tica de Processos",
+        "formattedName": "IOEP"
+    },
+    {
+        "name": "Integrac\u0327a\u0303o Regional - Teorias e Experie\u0302ncias",
+        "formattedName": "IRTE"
+    },
+    {
+        "name": "Intelig\u00eancia Artificial",
+        "formattedName": "IA"
+    },
+    {
+        "name": "Intelig\u00eancia Artificial em Rob\u00f3tica",
+        "formattedName": "IAR"
+    },
+    {
+        "name": "Intera\u00e7\u00e3o Fluido-Estrutura",
+        "formattedName": "IF"
+    },
+    {
+        "name": "Intera\u00e7\u00e3o Humano-Computador",
+        "formattedName": "IH"
+    },
+    {
+        "name": "Intera\u00e7\u00f5es At\u00f4micas e Moleculares",
+        "formattedName": "IAM"
+    },
+    {
+        "name": "Intera\u00e7\u00f5es da Radia\u00e7\u00e3o com a Mat\u00e9ria",
+        "formattedName": "IRCM"
+    },
+    {
+        "name": "Internet das Coisas e Blockchain",
+        "formattedName": "IDCB"
+    },
+    {
+        "name": "Interpreta\u00e7\u00f5es do Brasil",
+        "formattedName": "IB"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 An\u00e1lise Estoc\u00e1stica em Finan\u00e7as",
+        "formattedName": "IAEF"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 An\u00e1lise Funcional",
+        "formattedName": "IAF"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Astron\u00e1utica",
+        "formattedName": "IA"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Bioestat\u00edstica",
+        "formattedName": "IB"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Biofot\u00f4nica e \u00d3ptica Biom\u00e9dica",
+        "formattedName": "IB\u00d3B"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Bioinform\u00e1tica",
+        "formattedName": "IB"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Biomec\u00e2nica do Cont\u00ednuo",
+        "formattedName": "IBC"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Biotecnologia",
+        "formattedName": "IB"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Ci\u00eancia de Dados e Programa\u00e7\u00e3o",
+        "formattedName": "ICDP"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Cosmologia",
+        "formattedName": "IC"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Criptografia",
+        "formattedName": "IC"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Economia",
+        "formattedName": "IE"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Engenharia Biom\u00e9dica",
+        "formattedName": "IEB"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Engenharia de Sistemas Aeroespaciais",
+        "formattedName": "IESA"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Estat\u00edstica Bayesiana",
+        "formattedName": "IEB"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Filosofia da Ci\u00eancia",
+        "formattedName": "IFC"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Filosofia da Mente",
+        "formattedName": "IFM"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 F\u00edsica de Part\u00edculas Elementares",
+        "formattedName": "IFPE"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 F\u00edsica Estelar",
+        "formattedName": "IFE"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 F\u00edsica Nuclear",
+        "formattedName": "IFN"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Geometria Riemanniana",
+        "formattedName": "IGR"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Infer\u00eancia Estat\u00edstica",
+        "formattedName": "IIE"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Lingu\u00edstica Computacional",
+        "formattedName": "ILC"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Mec\u00e2nica Bioflu\u00eddica",
+        "formattedName": "IMB"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Neuroci\u00eancia",
+        "formattedName": "IN"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Neuroimunologia",
+        "formattedName": "IN"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Neuromodula\u00e7\u00e3o Invasiva e N\u00e3o-invasiva",
+        "formattedName": "ININ"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Probabilidade e \u00e0 Estat\u00edstica",
+        "formattedName": "IPE"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o de Jogos",
+        "formattedName": "IPJ"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Prospec\u00e7\u00e3o Tecnol\u00f3gica",
+        "formattedName": "IPT"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Psicolingu\u00edstica e Neuroci\u00eancia da Linguagem",
+        "formattedName": "IPNL"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Rob\u00f3tica",
+        "formattedName": "IR"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Teoria Anal\u00edtica dos N\u00fameros",
+        "formattedName": "ITADN"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Teoria de Homologia",
+        "formattedName": "ITH"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Teoria Geom\u00e9trica da Medida",
+        "formattedName": "ITGM"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Topologia Diferencial",
+        "formattedName": "ITD"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0 Transfer\u00eancia de Calor, Massa e Movimenta\u00e7\u00e3o de Fluidos.",
+        "formattedName": "ITCMMF"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o ao acolhimento intercultural aos migrantes e refugiados",
+        "formattedName": "IAIAMR"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o ao Controle Discreto",
+        "formattedName": "ICD"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o ao Controle Moderno",
+        "formattedName": "ICM"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o ao Direito e Fundamentos do Direito Internacional",
+        "formattedName": "IDFDI"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o ao Pensamento Econ\u00f4mico",
+        "formattedName": "IPE"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o ao Processamento de Sinais de Voz e \u00c1udio",
+        "formattedName": "IPSV\u00c1"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o ao Projeto de Dispositivos Eletromagn\u00e9ticos",
+        "formattedName": "IPDE"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o aos Letramentos em Ingl\u00eas",
+        "formattedName": "IALI"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o aos Processos de Fabrica\u00e7\u00e3o",
+        "formattedName": "IAPF"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o aos Processos de Fabrica\u00e7\u00e3o Metal - Mec\u00e2nico",
+        "formattedName": "IAPFMM"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o aos Processos Estoc\u00e1sticos",
+        "formattedName": "IAPE"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o aos Sistemas Din\u00e2micos",
+        "formattedName": "IASD"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o aos Sistemas El\u00e9tricos de Pot\u00eancia",
+        "formattedName": "IASEP"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0s \u00c1lgebras N\u00e3o Associativas",
+        "formattedName": "I\u00c1NA"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0s Curvas Alg\u00e9bricas",
+        "formattedName": "ICA"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0s Engenharias",
+        "formattedName": "IE"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0s Equa\u00e7\u00f5es Diferenciais Ordin\u00e1rias",
+        "formattedName": "IEDO"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0s Humanidades e \u00e0s Ci\u00eancias Sociais",
+        "formattedName": "IHCS"
+    },
+    {
+        "name": "Introdu\u00e7\u00e3o \u00e0s Pol\u00edticas P\u00fablicas",
+        "formattedName": "IPP"
+    },
+    {
+        "name": "Invas\u00e3o, Coloniza\u00e7\u00e3o e resist\u00eancias nas Am\u00e9ricas",
+        "formattedName": "ICRNA"
+    },
+    {
+        "name": "Jogos Digitais: Aspectos T\u00e9cnicos e Aplica\u00e7\u00f5es",
+        "formattedName": "JDATA"
+    },
+    {
+        "name": "Laborat\u00f3rio de Bioinform\u00e1tica",
+        "formattedName": "LB"
+    },
+    {
+        "name": "Laborat\u00f3rio de Bioprocessos",
+        "formattedName": "LB"
+    },
+    {
+        "name": "Laborat\u00f3rio de Calor e Fluidos",
+        "formattedName": "LCF"
+    },
+    {
+        "name": "Laborat\u00f3rio de Engenharia de Software",
+        "formattedName": "LES"
+    },
+    {
+        "name": "Laborat\u00f3rio de Engenharia Solar Fotovoltaica",
+        "formattedName": "LESF"
+    },
+    {
+        "name": "Laborat\u00f3rio de F\u00edsica M\u00e9dica",
+        "formattedName": "LFM"
+    },
+    {
+        "name": "Laborat\u00f3rio de Guiagem, Navega\u00e7\u00e3o e Controle",
+        "formattedName": "LGNC"
+    },
+    {
+        "name": "Laborat\u00f3rio de M\u00e1quinas El\u00e9tricas",
+        "formattedName": "LME"
+    },
+    {
+        "name": "Laborat\u00f3rio de M\u00e1quinas T\u00e9rmicas e Hidr\u00e1ulicas",
+        "formattedName": "LMTH"
+    },
+    {
+        "name": "Laborat\u00f3rio de Navega\u00e7\u00e3o Inercial e GNSS",
+        "formattedName": "LNIG"
+    },
+    {
+        "name": "Laborat\u00f3rio de Pr\u00e1ticas Integradoras I (PCC)",
+        "formattedName": "LPI"
+    },
+    {
+        "name": "Laborat\u00f3rio de Pr\u00e1ticas Integradoras II (PCC)",
+        "formattedName": "LPI"
+    },
+    {
+        "name": "Laborat\u00f3rio de Propriedades F\u00edsicas de Materiais",
+        "formattedName": "LPFM"
+    },
+    {
+        "name": "Laborat\u00f3rio de Redes",
+        "formattedName": "LR"
+    },
+    {
+        "name": "Laborat\u00f3rio de Sistemas Operacionais",
+        "formattedName": "LSO"
+    },
+    {
+        "name": "Lasers e \u00d3ptica Moderna",
+        "formattedName": "L\u00d3M"
+    },
+    {
+        "name": "Legisla\u00e7\u00e3o Relacionada \u00e0 Sa\u00fade",
+        "formattedName": "LRS"
+    },
+    {
+        "name": "Leitura filos\u00f3fica de obras de arte",
+        "formattedName": "LFOA"
+    },
+    {
+        "name": "LIBRAS",
+        "formattedName": "L"
+    },
+    {
+        "name": "Liga\u00e7\u00f5es Qu\u00edmicas",
+        "formattedName": "LQ"
+    },
+    {
+        "name": "L\u00edngua Latina I",
+        "formattedName": "LL"
+    },
+    {
+        "name": "L\u00edngua Latina II",
+        "formattedName": "LL"
+    },
+    {
+        "name": "Linguagens Formais e Aut\u00f4matos",
+        "formattedName": "LFA"
+    },
+    {
+        "name": "Literatura e Ensino de Ci\u00eancias",
+        "formattedName": "LEC"
+    },
+    {
+        "name": "Livro did\u00e1tico no ensino de conhecimentos biol\u00f3gicos",
+        "formattedName": "LDECB"
+    },
+    {
+        "name": "Livros Did\u00e1ticos no Ensino de Qu\u00edmica",
+        "formattedName": "LDEQ"
+    },
+    {
+        "name": "L\u00f3gica B\u00e1sica",
+        "formattedName": "LB"
+    },
+    {
+        "name": "L\u00f3gica e os Fundamentos da Matem\u00e1tica",
+        "formattedName": "LFM"
+    },
+    {
+        "name": "L\u00f3gica em Sistemas de Gest\u00e3o",
+        "formattedName": "LSG"
+    },
+    {
+        "name": "L\u00f3gica Program\u00e1vel",
+        "formattedName": "LP"
+    },
+    {
+        "name": "L\u00f3gicas N\u00e3o Cl\u00e1ssicas",
+        "formattedName": "LNC"
+    },
+    {
+        "name": "Log\u00edstica e Meio Ambiente",
+        "formattedName": "LMA"
+    },
+    {
+        "name": "Macroeconomia I",
+        "formattedName": "M"
+    },
+    {
+        "name": "Macroeconomia II",
+        "formattedName": "M"
+    },
+    {
+        "name": "Macroeconomia III",
+        "formattedName": "MI"
+    },
+    {
+        "name": "Macroeconomia P\u00f3s-Keynesiana",
+        "formattedName": "MP"
+    },
+    {
+        "name": "M\u00e1quinas de Fluxo",
+        "formattedName": "MF"
+    },
+    {
+        "name": "M\u00e1quinas El\u00e9tricas",
+        "formattedName": "ME"
+    },
+    {
+        "name": "M\u00e1quinas T\u00e9rmicas de Fluxo",
+        "formattedName": "MTF"
+    },
+    {
+        "name": "Matem\u00e1tica Discreta",
+        "formattedName": "MD"
+    },
+    {
+        "name": "Matem\u00e1tica Discreta II",
+        "formattedName": "MD"
+    },
+    {
+        "name": "Matem\u00e1tica nos Anos Iniciais",
+        "formattedName": "MNAI"
+    },
+    {
+        "name": "Materiais Cer\u00e2micos",
+        "formattedName": "MC"
+    },
+    {
+        "name": "Materiais Comp\u00f3sitos",
+        "formattedName": "MC"
+    },
+    {
+        "name": "Materiais e Suas Propriedades",
+        "formattedName": "MSP"
+    },
+    {
+        "name": "Materiais Met\u00e1licos",
+        "formattedName": "MM"
+    },
+    {
+        "name": "Materiais Nanoestruturados",
+        "formattedName": "MN"
+    },
+    {
+        "name": "Materiais para Energia e Ambiente",
+        "formattedName": "MPEA"
+    },
+    {
+        "name": "Materiais para Tecnologia da Informa\u00e7\u00e3o",
+        "formattedName": "MPTI"
+    },
+    {
+        "name": "Materiais Polim\u00e9ricos",
+        "formattedName": "MP"
+    },
+    {
+        "name": "Mat\u00e9rias Primas Cer\u00e2micas",
+        "formattedName": "MPC"
+    },
+    {
+        "name": "Mec\u00e2nica Cl\u00e1ssica I",
+        "formattedName": "MC"
+    },
+    {
+        "name": "Mec\u00e2nica Cl\u00e1ssica II",
+        "formattedName": "MC"
+    },
+    {
+        "name": "Mec\u00e2nica Cl\u00e1ssica III",
+        "formattedName": "MCI"
+    },
+    {
+        "name": "Mec\u00e2nica dos Fluidos I",
+        "formattedName": "MDF"
+    },
+    {
+        "name": "Mec\u00e2nica dos Fluidos II",
+        "formattedName": "MDF"
+    },
+    {
+        "name": "Mec\u00e2nica dos S\u00f3lidos I",
+        "formattedName": "MDS"
+    },
+    {
+        "name": "Mec\u00e2nica dos S\u00f3lidos II",
+        "formattedName": "MDS"
+    },
+    {
+        "name": "Mec\u00e2nica Estat\u00edstica I",
+        "formattedName": "ME"
+    },
+    {
+        "name": "Mec\u00e2nica Estat\u00edstica II",
+        "formattedName": "ME"
+    },
+    {
+        "name": "Mec\u00e2nica Geral",
+        "formattedName": "MG"
+    },
+    {
+        "name": "Mec\u00e2nica Qu\u00e2ntica I",
+        "formattedName": "MQ"
+    },
+    {
+        "name": "Mec\u00e2nica Qu\u00e2ntica II",
+        "formattedName": "MQ"
+    },
+    {
+        "name": "Mec\u00e2nica Qu\u00e2ntica III",
+        "formattedName": "MQI"
+    },
+    {
+        "name": "Mec\u00e2nica Qu\u00e2ntica IV",
+        "formattedName": "MQ"
+    },
+    {
+        "name": "Mecanismos de Rea\u00e7\u00f5es Org\u00e2nicas",
+        "formattedName": "MRO"
+    },
+    {
+        "name": "Meio Ambiente e Ind\u00fastria",
+        "formattedName": "MAI"
+    },
+    {
+        "name": "Meio Ambiente e Pol\u00edticas P\u00fablicas",
+        "formattedName": "MAPP"
+    },
+    {
+        "name": "Mem\u00f3ria e Aprendizagem",
+        "formattedName": "MA"
+    },
+    {
+        "name": "Mem\u00f3ria, Identidades Sociais e Cidadania nas Sociedades Complexas Contempor\u00e2neas",
+        "formattedName": "MISCNSCC"
+    },
+    {
+        "name": "Mercado Imobili\u00e1rio",
+        "formattedName": "MI"
+    },
+    {
+        "name": "Metaf\u00edsica Anal\u00edtica",
+        "formattedName": "MA"
+    },
+    {
+        "name": "Metaf\u00edsica Cl\u00e1ssica",
+        "formattedName": "MC"
+    },
+    {
+        "name": "Metalurgia F\u00edsica",
+        "formattedName": "MF"
+    },
+    {
+        "name": "Metametaf\u00edsica e Metaontologia",
+        "formattedName": "MM"
+    },
+    {
+        "name": "Metateoremas da L\u00f3gica Cl\u00e1ssica",
+        "formattedName": "MLC"
+    },
+    {
+        "name": "Metodologia de An\u00e1lise de Riscos",
+        "formattedName": "MAR"
+    },
+    {
+        "name": "Metodologia de Pesquisa em Ci\u00eancia de Dados",
+        "formattedName": "MPCD"
+    },
+    {
+        "name": "Metodologia do Ensino de Geografia",
+        "formattedName": "MEG"
+    },
+    {
+        "name": "Metodologia em Hist\u00f3ria",
+        "formattedName": "MH"
+    },
+    {
+        "name": "Metodologias de Pesquisa em Educa\u00e7\u00e3o",
+        "formattedName": "MPE"
+    },
+    {
+        "name": "M\u00e9todos Computacionais para An\u00e1lise Estrutural",
+        "formattedName": "MCPAE"
+    },
+    {
+        "name": "M\u00e9todos de An\u00e1lise em Qu\u00edmica Org\u00e2nica",
+        "formattedName": "MAQO"
+    },
+    {
+        "name": "M\u00e9todos de Forma\u00e7\u00e3o de Imagem e de Inspe\u00e7\u00e3o Nuclear",
+        "formattedName": "MFIIN"
+    },
+    {
+        "name": "M\u00e9todos de Otimiza\u00e7\u00e3o",
+        "formattedName": "MO"
+    },
+    {
+        "name": "M\u00e9todos de Planejamento",
+        "formattedName": "MP"
+    },
+    {
+        "name": "M\u00e9todos de Tomada de Decis\u00e3o Aplicados ao Planejamento Urbano-Ambiental",
+        "formattedName": "MTDAPU"
+    },
+    {
+        "name": "M\u00e9todos Emp\u00edricos para Avalia\u00e7\u00e3o de Pol\u00edticas P\u00fablicas",
+        "formattedName": "MEPAPP"
+    },
+    {
+        "name": "M\u00e9todos Experimentais em Engenharia",
+        "formattedName": "MEE"
+    },
+    {
+        "name": "M\u00e9todos Matem\u00e1ticos Aplicados a Sistemas Biom\u00e9dicos",
+        "formattedName": "MMASB"
+    },
+    {
+        "name": "M\u00e9todos Num\u00e9ricos para EDOs",
+        "formattedName": "MNPE"
+    },
+    {
+        "name": "M\u00e9todos Num\u00e9ricos para EDPs",
+        "formattedName": "MNPE"
+    },
+    {
+        "name": "M\u00e9todos para Produ\u00e7\u00e3o de Filosofia",
+        "formattedName": "MPPF"
+    },
+    {
+        "name": "M\u00e9todos Qualitativos e Desenho de Pesquisa para o TCC de Pol\u00edticas P\u00fablicas",
+        "formattedName": "MQDPPTPP"
+    },
+    {
+        "name": "M\u00e9todos Quantitativos em Pol\u00edticas P\u00fablicas",
+        "formattedName": "MQPP"
+    },
+    {
+        "name": "M\u00e9todos Quantitativos para Planejamento Estrat\u00e9gico",
+        "formattedName": "MQPPE"
+    },
+    {
+        "name": "M\u00e9todos Variacionais",
+        "formattedName": "MV"
+    },
+    {
+        "name": "Metrologia",
+        "formattedName": "M"
+    },
+    {
+        "name": "Microbiologia",
+        "formattedName": "M"
+    },
+    {
+        "name": "Microbiologia Ambiental",
+        "formattedName": "MA"
+    },
+    {
+        "name": "Microeconomia do Desenvolvimento",
+        "formattedName": "MD"
+    },
+    {
+        "name": "Microeconomia I",
+        "formattedName": "M"
+    },
+    {
+        "name": "Microeconomia II",
+        "formattedName": "M"
+    },
+    {
+        "name": "Microeconomia III",
+        "formattedName": "MI"
+    },
+    {
+        "name": "Microeconomia Sist\u00eamica Ambiental",
+        "formattedName": "MSA"
+    },
+    {
+        "name": "Microeconomia: problemas avan\u00e7ados e t\u00e9cnicas de resolu\u00e7\u00e3o",
+        "formattedName": "MPATR"
+    },
+    {
+        "name": "Microscopia Eletr\u00f4nica",
+        "formattedName": "ME"
+    },
+    {
+        "name": "Microssimula\u00e7\u00e3o de Sistemas de Transportes",
+        "formattedName": "MST"
+    },
+    {
+        "name": "Migra\u00e7\u00f5es Internacionais",
+        "formattedName": "MI"
+    },
+    {
+        "name": "Minera\u00e7\u00e3o de Dados",
+        "formattedName": "MD"
+    },
+    {
+        "name": "Mobiliza\u00e7\u00e3o Produtiva dos Territ\u00f3rios e Desenvolvimento Local",
+        "formattedName": "MPDTDL"
+    },
+    {
+        "name": "Modelagem de Banco de Dados",
+        "formattedName": "MBD"
+    },
+    {
+        "name": "Modelagem de Sistemas Din\u00e2micos I",
+        "formattedName": "MSD"
+    },
+    {
+        "name": "Modelagem de Sistemas Din\u00e2micos II",
+        "formattedName": "MSD"
+    },
+    {
+        "name": "Modelagem de Sistemas Eletromec\u00e2nicos",
+        "formattedName": "MSE"
+    },
+    {
+        "name": "Modelagem e Controle",
+        "formattedName": "MC"
+    },
+    {
+        "name": "Modelagem e Simula\u00e7\u00e3o do Movimento Humano",
+        "formattedName": "MSMH"
+    },
+    {
+        "name": "Modelagem Econ\u00f4mica no S\u00e9culo XXI",
+        "formattedName": "MESX"
+    },
+    {
+        "name": "Modelagem Matem\u00e1tica em Ecologia e Evolu\u00e7\u00e3o",
+        "formattedName": "MMEE"
+    },
+    {
+        "name": "Modelagem Molecular de Sistemas Biol\u00f3gicos",
+        "formattedName": "MMSB"
+    },
+    {
+        "name": "Modelos de Comunica\u00e7\u00e3o Nas Organiza\u00e7\u00f5es",
+        "formattedName": "MCNO"
+    },
+    {
+        "name": "Modelos de Decis\u00e3o Multicrit\u00e9rio",
+        "formattedName": "MDM"
+    },
+    {
+        "name": "Modelos e Ferramentas de Gest\u00e3o Ambiental",
+        "formattedName": "MFGA"
+    },
+    {
+        "name": "Modelos e Pr\u00e1ticas Colaborativas em CT&I",
+        "formattedName": "MPCC"
+    },
+    {
+        "name": "Modelos Econ\u00f4micos e An\u00e1lise das Din\u00e2micas Territoriais",
+        "formattedName": "MEADDT"
+    },
+    {
+        "name": "Modelos Matem\u00e1ticos em Epidemiologia",
+        "formattedName": "MME"
+    },
+    {
+        "name": "Morfofisiologia Animal Comparada",
+        "formattedName": "MAC"
+    },
+    {
+        "name": "Morfofisiologia Humana I",
+        "formattedName": "MH"
+    },
+    {
+        "name": "Morfofisiologia Humana II",
+        "formattedName": "MH"
+    },
+    {
+        "name": "Morfofisiologia Humana III",
+        "formattedName": "MHI"
+    },
+    {
+        "name": "Morfofisiologia Vegetal",
+        "formattedName": "MV"
+    },
+    {
+        "name": "Motores de Combust\u00e3o Interna",
+        "formattedName": "MCI"
+    },
+    {
+        "name": "Mudan\u00e7a Tecnol\u00f3gica e Din\u00e2mica Capitalista na Economia Contempor\u00e2nea",
+        "formattedName": "MTDCEC"
+    },
+    {
+        "name": "Mulher, Imagem e Sociedade",
+        "formattedName": "MIS"
+    },
+    {
+        "name": "Nanobiotecnologia",
+        "formattedName": "N"
+    },
+    {
+        "name": "Nanoci\u00eancia e Nanotecnologia",
+        "formattedName": "NN"
+    },
+    {
+        "name": "Nanocomp\u00f3sitos",
+        "formattedName": "N"
+    },
+    {
+        "name": "Nascimento e Desenvolvimento da Ci\u00eancia Moderna",
+        "formattedName": "NDCM"
+    },
+    {
+        "name": "Natureza da Informa\u00e7\u00e3o",
+        "formattedName": "NI"
+    },
+    {
+        "name": "Negocia\u00e7\u00e3o e Solu\u00e7\u00e3o de Conflitos Organizacionais",
+        "formattedName": "NSCO"
+    },
+    {
+        "name": "Negocia\u00e7\u00f5es internacionais, propriedade intelectual e transfer\u00eancia tecnol\u00f3gica",
+        "formattedName": "NIPITT"
+    },
+    {
+        "name": "Neuroanatomia",
+        "formattedName": "N"
+    },
+    {
+        "name": "Neuroarte",
+        "formattedName": "N"
+    },
+    {
+        "name": "Neurobiologia Molecular e Celular",
+        "formattedName": "NMC"
+    },
+    {
+        "name": "Neuroci\u00eancia da Cogni\u00e7\u00e3o Musical",
+        "formattedName": "NCM"
+    },
+    {
+        "name": "Neuroci\u00eancia Te\u00f3rica e Computacional",
+        "formattedName": "NTC"
+    },
+    {
+        "name": "Neuroetologia",
+        "formattedName": "N"
+    },
+    {
+        "name": "Neuropsicofarmacologia",
+        "formattedName": "N"
+    },
+    {
+        "name": "Neuropsicologia",
+        "formattedName": "N"
+    },
+    {
+        "name": "Niilismo e Pessimismo Filos\u00f3fico",
+        "formattedName": "NPF"
+    },
+    {
+        "name": "No\u00e7\u00f5es de Astronomia e Cosmologia",
+        "formattedName": "NAC"
+    },
+    {
+        "name": "Novas Abordagens Te\u00f3ricas em Pol\u00edticas P\u00fablicas",
+        "formattedName": "NATPP"
+    },
+    {
+        "name": "N\u00fameros Reais e Sequ\u00eancias",
+        "formattedName": "NRS"
+    },
+    {
+        "name": "Oficina de An\u00e1lise Econ\u00f4mica Aplicada",
+        "formattedName": "OAEA"
+    },
+    {
+        "name": "Oficina de Pesquisa em Filosofia I",
+        "formattedName": "OPF"
+    },
+    {
+        "name": "Oficina de Pesquisa em Filosofia II",
+        "formattedName": "OPF"
+    },
+    {
+        "name": "Oficina de Pesquisa em Filosofia III",
+        "formattedName": "OPFI"
+    },
+    {
+        "name": "Oficina de Planejamento de \u00c1reas Periurbanas, Interioranas e Rurais",
+        "formattedName": "OP\u00c1PIR"
+    },
+    {
+        "name": "Oficina de Planejamento e Governan\u00e7a Metropolitana",
+        "formattedName": "OPGM"
+    },
+    {
+        "name": "Oficina de Planejamento Macro e Meso Regional",
+        "formattedName": "OPMMR"
+    },
+    {
+        "name": "Oficina de Planejamento Urbano",
+        "formattedName": "OPU"
+    },
+    {
+        "name": "Oficina de Projeto Urbano",
+        "formattedName": "OPU"
+    },
+    {
+        "name": "Oficina de Rela\u00e7\u00f5es Internacionais ",
+        "formattedName": "ORI"
+    },
+    {
+        "name": "Oficinas de Cultura e Arte-Educa\u00e7\u00e3o",
+        "formattedName": "OCA"
+    },
+    {
+        "name": "Oficinas em Economia e Hist\u00f3ria do ABC Paulista",
+        "formattedName": "OEHAP"
+    },
+    {
+        "name": "Ondas Eletromagn\u00e9ticas Aplicadas",
+        "formattedName": "OEA"
+    },
+    {
+        "name": "Opera\u00e7\u00e3o de Sistemas El\u00e9tricos de Pot\u00eancia",
+        "formattedName": "OSEP"
+    },
+    {
+        "name": "Opera\u00e7\u00f5es e Equipamentos Industriais I",
+        "formattedName": "OEI"
+    },
+    {
+        "name": "Opera\u00e7\u00f5es e Equipamentos Industriais II",
+        "formattedName": "OEI"
+    },
+    {
+        "name": "Opera\u00e7\u00f5es Unit\u00e1rias I",
+        "formattedName": "OU"
+    },
+    {
+        "name": "Opera\u00e7\u00f5es Unit\u00e1rias II",
+        "formattedName": "OU"
+    },
+    {
+        "name": "\u00d3ptica",
+        "formattedName": "\u00d3"
+    },
+    {
+        "name": "\u00d3ptica e Relatividade",
+        "formattedName": "\u00d3R"
+    },
+    {
+        "name": "Optoeletr\u00f4nica",
+        "formattedName": "O"
+    },
+    {
+        "name": "Or\u00e7amento P\u00fablico",
+        "formattedName": "OP"
+    },
+    {
+        "name": "Organiza\u00e7\u00e3o do Trabalho",
+        "formattedName": "OT"
+    },
+    {
+        "name": "Organiza\u00e7\u00f5es Internacionais e Multilateralismo",
+        "formattedName": "OIM"
+    },
+    {
+        "name": "Oriente M\u00e9dio nas Rela\u00e7\u00f5es Internacionais",
+        "formattedName": "OMNRI"
+    },
+    {
+        "name": "Otimiza\u00e7\u00e3o em Projetos de Estruturas",
+        "formattedName": "OPE"
+    },
+    {
+        "name": "Otimiza\u00e7\u00e3o em Redes de Comunica\u00e7\u00e3o",
+        "formattedName": "ORC"
+    },
+    {
+        "name": "Otimiza\u00e7\u00e3o Linear",
+        "formattedName": "OL"
+    },
+    {
+        "name": "Panorama internacional do ABC",
+        "formattedName": "PIA"
+    },
+    {
+        "name": "Parasitologia",
+        "formattedName": "P"
+    },
+    {
+        "name": "Participa\u00e7\u00e3o, Movimentos Sociais e Pol\u00edticas P\u00fablicas",
+        "formattedName": "PMSPP"
+    },
+    {
+        "name": "Patrim\u00f4nio Cultural e Paisagem",
+        "formattedName": "PCP"
+    },
+    {
+        "name": "Paulo Freire: educa\u00e7\u00e3o para a criticidade",
+        "formattedName": "PFEPC"
+    },
+    {
+        "name": "Pedagogias Feministas",
+        "formattedName": "PF"
+    },
+    {
+        "name": "Pensamento Cr\u00edtico",
+        "formattedName": "PC"
+    },
+    {
+        "name": "Pensamento e Cinema",
+        "formattedName": "PC"
+    },
+    {
+        "name": "Pensamento Hegeliano e seus Desdobramentos Contempor\u00e2neos",
+        "formattedName": "PHSDC"
+    },
+    {
+        "name": "Pensamento Kantiano e seus Desdobramentos Contempor\u00e2neos",
+        "formattedName": "PKSDC"
+    },
+    {
+        "name": "Pensamento Latino-Americano e Pol\u00edticas de CT&I",
+        "formattedName": "PLPC"
+    },
+    {
+        "name": "Pensamento Marxista e seus Desdobramentos Contempor\u00e2neos",
+        "formattedName": "PMSDC"
+    },
+    {
+        "name": "Pensamento Nietzscheano e seus Desdobramentos Contempor\u00e2neos",
+        "formattedName": "PNSDC"
+    },
+    {
+        "name": "Percola\u00e7\u00e3o",
+        "formattedName": "P"
+    },
+    {
+        "name": "Periferias Urbanas, Direito \u00e0 Cidade e Pol\u00edticas P\u00fablicas",
+        "formattedName": "PUDCPP"
+    },
+    {
+        "name": "Perspectivas Cr\u00edticas da Filosofia Contempor\u00e2nea",
+        "formattedName": "PCFC"
+    },
+    {
+        "name": "Pesquisa Dirigida",
+        "formattedName": "PD"
+    },
+    {
+        "name": "Pesquisa dirigida - enfoque sociol\u00f3gico sobre juventudes no territ\u00f3rio",
+        "formattedName": "PDESSJT"
+    },
+    {
+        "name": "Pesquisa Dirigida em Hist\u00f3ria",
+        "formattedName": "PDH"
+    },
+    {
+        "name": "Pesquisa operacional",
+        "formattedName": "PO"
+    },
+    {
+        "name": "Pesquisa Operacional Aplicada",
+        "formattedName": "POA"
+    },
+    {
+        "name": "Petrof\u00edsica",
+        "formattedName": "P"
+    },
+    {
+        "name": "Placas e Cascas",
+        "formattedName": "PC"
+    },
+    {
+        "name": "Planejamento da Opera\u00e7\u00e3o de Sistemas Hidrot\u00e9rmicos de Pot\u00eancia",
+        "formattedName": "POSHP"
+    },
+    {
+        "name": "Planejamento de Redes de Informa\u00e7\u00e3o",
+        "formattedName": "PRI"
+    },
+    {
+        "name": "Planejamento e Controle da Produ\u00e7\u00e3o",
+        "formattedName": "PCP"
+    },
+    {
+        "name": "Planejamento e Controle de Projetos",
+        "formattedName": "PCP"
+    },
+    {
+        "name": "Planejamento e Gest\u00e3o de Redes T\u00e9cnicas e Sistemas Territoriais",
+        "formattedName": "PGRTST"
+    },
+    {
+        "name": "Planejamento e Pol\u00edtica Ambiental",
+        "formattedName": "PPA"
+    },
+    {
+        "name": "Planejamento e Pol\u00edtica Regional",
+        "formattedName": "PPR"
+    },
+    {
+        "name": "Planejamento e Pol\u00edtica Rural",
+        "formattedName": "PPR"
+    },
+    {
+        "name": "Planejamento Estrat\u00e9gico em Gest\u00e3o de Projetos",
+        "formattedName": "PEGP"
+    },
+    {
+        "name": "Planejamento Urbano e Metropolitano",
+        "formattedName": "PUM"
+    },
+    {
+        "name": "Poder e Cultura Na Sociedade da Informa\u00e7\u00e3o",
+        "formattedName": "PCSI"
+    },
+    {
+        "name": "Poder Legislativo e Processo Decis\u00f3rio",
+        "formattedName": "PLPD"
+    },
+    {
+        "name": "Poder Local",
+        "formattedName": "PL"
+    },
+    {
+        "name": "Pol\u00edmeros: S\u00edntese, Caracteriza\u00e7\u00e3o e Processos",
+        "formattedName": "PSCP"
+    },
+    {
+        "name": "Pol\u00edtica Energ\u00e9tica",
+        "formattedName": "PE"
+    },
+    {
+        "name": "Pol\u00edtica Externa Brasileira Contempor\u00e2nea",
+        "formattedName": "PEBC"
+    },
+    {
+        "name": "Pol\u00edtica externa do Brasil e a Am\u00e9rica Do Sul",
+        "formattedName": "PEBAS"
+    },
+    {
+        "name": "Pol\u00edtica Habitacional",
+        "formattedName": "PH"
+    },
+    {
+        "name": "Pol\u00edtica Internacional da Europa",
+        "formattedName": "PIE"
+    },
+    {
+        "name": "Pol\u00edtica Internacional dos EUA",
+        "formattedName": "PIDE"
+    },
+    {
+        "name": "Pol\u00edtica Metropolitana",
+        "formattedName": "PM"
+    },
+    {
+        "name": "Pol\u00edtica Previdenci\u00e1ria, Interesses Organizados e Processo Decis\u00f3rio",
+        "formattedName": "PPIOPD"
+    },
+    {
+        "name": "Pol\u00edtica Urbana",
+        "formattedName": "PU"
+    },
+    {
+        "name": "Pol\u00edticas Culturais",
+        "formattedName": "PC"
+    },
+    {
+        "name": "Pol\u00edticas de Educa\u00e7\u00e3o",
+        "formattedName": "PE"
+    },
+    {
+        "name": "Pol\u00edticas de Infraestrutura",
+        "formattedName": "PI"
+    },
+    {
+        "name": "Pol\u00edticas de Sa\u00fade",
+        "formattedName": "PS"
+    },
+    {
+        "name": "Pol\u00edticas de Seguran\u00e7a P\u00fablica e Viol\u00eancia",
+        "formattedName": "PSPV"
+    },
+    {
+        "name": "Pol\u00edticas Digitais, Dados e Gest\u00e3o Algor\u00edtmica",
+        "formattedName": "PDDGA"
+    },
+    {
+        "name": "Pol\u00edticas Educacionais",
+        "formattedName": "PE"
+    },
+    {
+        "name": "Pol\u00edticas P\u00fablicas de Desenvolvimento Sustent\u00e1vel e Economia Solid\u00e1ria ",
+        "formattedName": "PPDSES"
+    },
+    {
+        "name": "Pol\u00edticas P\u00fablicas de Interven\u00e7\u00e3o Territorial no Brasil",
+        "formattedName": "PPITB"
+    },
+    {
+        "name": "Pol\u00edticas P\u00fablicas de Juventude",
+        "formattedName": "PPJ"
+    },
+    {
+        "name": "Pol\u00edticas P\u00fablicas e Desigualdades de G\u00eanero e Ra\u00e7a",
+        "formattedName": "PPDGR"
+    },
+    {
+        "name": "Pol\u00edticas P\u00fablicas Sul-Americanas",
+        "formattedName": "PPS"
+    },
+    {
+        "name": "Pol\u00edticas Sociais",
+        "formattedName": "PS"
+    },
+    {
+        "name": "Pol\u00edticas, Educa\u00e7\u00e3o e Surdez",
+        "formattedName": "PES"
+    },
+    {
+        "name": "Polui\u00e7\u00e3o Atmosf\u00e9rica",
+        "formattedName": "PA"
+    },
+    {
+        "name": "Pragmatismo",
+        "formattedName": "P"
+    },
+    {
+        "name": "Pr\u00e1tica Avan\u00e7ada de Programa\u00e7\u00e3o A",
+        "formattedName": "PAP"
+    },
+    {
+        "name": "Pr\u00e1tica Avan\u00e7ada de Programa\u00e7\u00e3o B",
+        "formattedName": "PAP"
+    },
+    {
+        "name": "Pr\u00e1tica Avan\u00e7ada de Programa\u00e7\u00e3o C",
+        "formattedName": "PAP"
+    },
+    {
+        "name": "Pr\u00e1tica de Ensino de Filosofia: Curr\u00edculos",
+        "formattedName": "PEFC"
+    },
+    {
+        "name": "Pr\u00e1tica de Ensino de Filosofia: Metodologias",
+        "formattedName": "PEFM"
+    },
+    {
+        "name": "Pr\u00e1tica de Ensino de Filosofia: Programas de Ensino",
+        "formattedName": "PEFPE"
+    },
+    {
+        "name": "Pr\u00e1tica em Museus, Arquivos e Bens Culturais",
+        "formattedName": "PMABC"
+    },
+    {
+        "name": "Pr\u00e1ticas Comunit\u00e1rias em campo",
+        "formattedName": "PCC"
+    },
+    {
+        "name": "Pr\u00e1ticas de Agroecologia: de(s)colonizando saberes sobre manejo e cultivo em solos tropicais",
+        "formattedName": "PADSSMCST"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ecologia",
+        "formattedName": "PE"
+    },
+    {
+        "name": "Pr\u00e1ticas de Educa\u00e7\u00e3o em Direitos Humanos",
+        "formattedName": "PEDH"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Biologia e Aprendizagem",
+        "formattedName": "PEBA"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Biologia e Curr\u00edculo",
+        "formattedName": "PEBC"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Biologia e Planejamento",
+        "formattedName": "PEBP"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Ci\u00eancias e Matem\u00e1tica no Ensino Fundamental",
+        "formattedName": "PECMEF"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Ci\u00eancias no Ensino Fundamental",
+        "formattedName": "PECEF"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de F\u00edsica I",
+        "formattedName": "PEF"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de F\u00edsica II",
+        "formattedName": "PEF"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de F\u00edsica III",
+        "formattedName": "PEFI"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de F\u00edsica no Ensino Fundamental II",
+        "formattedName": "PEFEF"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Geografia: Curr\u00edculos",
+        "formattedName": "PEGC"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Geografia: Metodologias",
+        "formattedName": "PEGM"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Geografia: Programas de Ensino",
+        "formattedName": "PEGPE"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Hist\u00f3ria: Curr\u00edculos",
+        "formattedName": "PEHC"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Hist\u00f3ria: Metodologias",
+        "formattedName": "PEHM"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Hist\u00f3ria: Programas de Ensino",
+        "formattedName": "PEHPE"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Matem\u00e1tica I",
+        "formattedName": "PEM"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Matem\u00e1tica II",
+        "formattedName": "PEM"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Matem\u00e1tica III",
+        "formattedName": "PEMI"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Matem\u00e1tica IV",
+        "formattedName": "PEM"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Qu\u00edmica I",
+        "formattedName": "PEQ"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Qu\u00edmica II",
+        "formattedName": "PEQ"
+    },
+    {
+        "name": "Pr\u00e1ticas de Ensino de Qu\u00edmica III",
+        "formattedName": "PEQI"
+    },
+    {
+        "name": "Pr\u00e1ticas de leituras em Ci\u00eancias Humanas",
+        "formattedName": "PLCH"
+    },
+    {
+        "name": "Pr\u00e1ticas Discursivas da Ci\u00eancia e Educa\u00e7\u00e3o em Ci\u00eancias",
+        "formattedName": "PDCEC"
+    },
+    {
+        "name": "Pr\u00e1ticas em Ci\u00eancias e Humanidades",
+        "formattedName": "PCH"
+    },
+    {
+        "name": "Pr\u00e1ticas em LIBRAS",
+        "formattedName": "PL"
+    },
+    {
+        "name": "Pr\u00e1ticas em Neurobiologia Molecular",
+        "formattedName": "PNM"
+    },
+    {
+        "name": "Pr\u00e1ticas em Qu\u00edmica Anal\u00edtica",
+        "formattedName": "PQA"
+    },
+    {
+        "name": "Pr\u00e1ticas em Qu\u00edmica Verde",
+        "formattedName": "PQV"
+    },
+    {
+        "name": "Pr\u00e1ticas em Textos Hist\u00f3ricos das Ci\u00eancias",
+        "formattedName": "PTHDC"
+    },
+    {
+        "name": "Pr\u00e1ticas Escolares em Educa\u00e7\u00e3o Especial e Inclusiva",
+        "formattedName": "PEEEI"
+    },
+    {
+        "name": "Pr\u00e1ticas Especiais do Planejamento Territorial",
+        "formattedName": "PEPT"
+    },
+    {
+        "name": "Pr\u00e1ticas Extensionistas em Biotecnologia",
+        "formattedName": "PEB"
+    },
+    {
+        "name": "Pr\u00e1ticas Extensionistas em Economia",
+        "formattedName": "PEE"
+    },
+    {
+        "name": "Pr\u00e1ticas Extensionistas em Pol\u00edticas P\u00fablicas",
+        "formattedName": "PEPP"
+    },
+    {
+        "name": "Pr\u00e1ticas Extensionistas em Pol\u00edticas P\u00fablicas II",
+        "formattedName": "PEPP"
+    },
+    {
+        "name": "Pr\u00e1ticas Extensionistas em Pol\u00edticas P\u00fablicas III",
+        "formattedName": "PEPPI"
+    },
+    {
+        "name": "Pr\u00e1ticas pedag\u00f3gicas e formativas em museus de ci\u00eancias",
+        "formattedName": "PPFMC"
+    },
+    {
+        "name": "Pr\u00e1ticas teatrais como recurso did\u00e1tico",
+        "formattedName": "PTCRD"
+    },
+    {
+        "name": "Pr\u00e1ticas Territoriais",
+        "formattedName": "PT"
+    },
+    {
+        "name": "Prim\u00f3rdios da Filosofia e Ci\u00eancia Antiga",
+        "formattedName": "PFCA"
+    },
+    {
+        "name": "Princ\u00edpios de Administra\u00e7\u00e3o",
+        "formattedName": "PA"
+    },
+    {
+        "name": "Princ\u00edpios de Comunica\u00e7\u00e3o",
+        "formattedName": "PC"
+    },
+    {
+        "name": "Princ\u00edpios de \u00c9tica em Servi\u00e7os de Sa\u00fade",
+        "formattedName": "P\u00c9SS"
+    },
+    {
+        "name": "Princ\u00edpios de Fisiologia para Biotecnologia",
+        "formattedName": "PFPB"
+    },
+    {
+        "name": "Princ\u00edpios de Imagens M\u00e9dicas",
+        "formattedName": "PIM"
+    },
+    {
+        "name": "Princ\u00edpios de Mec\u00e2nica Qu\u00e2ntica",
+        "formattedName": "PMQ"
+    },
+    {
+        "name": "Princ\u00edpios de Termodin\u00e2mica",
+        "formattedName": "PT"
+    },
+    {
+        "name": "Probabilidade",
+        "formattedName": "P"
+    },
+    {
+        "name": "Processadores Digitais em Controle e Automa\u00e7\u00e3o",
+        "formattedName": "PDCA"
+    },
+    {
+        "name": "Processamento da Informa\u00e7\u00e3o",
+        "formattedName": "PI"
+    },
+    {
+        "name": "Processamento de Imagens M\u00e9dicas",
+        "formattedName": "PIM"
+    },
+    {
+        "name": "Processamento de Imagens Utilizando GPU",
+        "formattedName": "PIUG"
+    },
+    {
+        "name": "Processamento de Informa\u00e7\u00e3o em L\u00ednguas Naturais",
+        "formattedName": "PILN"
+    },
+    {
+        "name": "Processamento de Linguagem Natural",
+        "formattedName": "PLN"
+    },
+    {
+        "name": "Processamento de Materiais Cer\u00e2micos",
+        "formattedName": "PMC"
+    },
+    {
+        "name": "Processamento de Pol\u00edmeros",
+        "formattedName": "PP"
+    },
+    {
+        "name": "Processamento de Sinais Neurais",
+        "formattedName": "PSN"
+    },
+    {
+        "name": "Processamento de V\u00eddeo",
+        "formattedName": "PV"
+    },
+    {
+        "name": "Processamento Digital de Imagens",
+        "formattedName": "PDI"
+    },
+    {
+        "name": "Processamento Digital de Sinais",
+        "formattedName": "PDS"
+    },
+    {
+        "name": "Processamento e An\u00e1lise de Falhas em Biomateriais",
+        "formattedName": "PAFB"
+    },
+    {
+        "name": "Processamento e An\u00e1lise de Sinais Biom\u00e9dicos",
+        "formattedName": "PASB"
+    },
+    {
+        "name": "Processamento e Conforma\u00e7\u00e3o de Metais I",
+        "formattedName": "PCM"
+    },
+    {
+        "name": "Processamento e Conforma\u00e7\u00e3o de Metais II",
+        "formattedName": "PCM"
+    },
+    {
+        "name": "Processo e Desenvolvimento de Softwares Educacionais",
+        "formattedName": "PDSE"
+    },
+    {
+        "name": "Processos Biotecnol\u00f3gicos Para Produ\u00e7\u00e3o de Biocombust\u00edveis",
+        "formattedName": "PBPPB"
+    },
+    {
+        "name": "Processos Estoc\u00e1sticos",
+        "formattedName": "PE"
+    },
+    {
+        "name": "Processos Industriais Cer\u00e2micos",
+        "formattedName": "PIC"
+    },
+    {
+        "name": "Processos Industriais Org\u00e2nicos e Inorg\u00e2nicos",
+        "formattedName": "PIOI"
+    },
+    {
+        "name": "Processos Termoqu\u00edmicos de Convers\u00e3o Energ\u00e9tica",
+        "formattedName": "PTCE"
+    },
+    {
+        "name": "Programa\u00e7\u00e3o Avan\u00e7ada para Dispositivos M\u00f3veis",
+        "formattedName": "PAPDM"
+    },
+    {
+        "name": "Programa\u00e7\u00e3o Baseada em Componentes para Jogos",
+        "formattedName": "PBCPJ"
+    },
+    {
+        "name": "Programa\u00e7\u00e3o de Dispositivos M\u00f3veis",
+        "formattedName": "PDM"
+    },
+    {
+        "name": "Programa\u00e7\u00e3o de Software Embarcado",
+        "formattedName": "PSE"
+    },
+    {
+        "name": "Programa\u00e7\u00e3o Estruturada",
+        "formattedName": "PE"
+    },
+    {
+        "name": "Programa\u00e7\u00e3o Funcional",
+        "formattedName": "PF"
+    },
+    {
+        "name": "Programa\u00e7\u00e3o Orientada a Objetos",
+        "formattedName": "POO"
+    },
+    {
+        "name": "Programa\u00e7\u00e3o para Web",
+        "formattedName": "PPW"
+    },
+    {
+        "name": "Programa\u00e7\u00e3o Paralela",
+        "formattedName": "PP"
+    },
+    {
+        "name": "Programa\u00e7\u00e3o Segura",
+        "formattedName": "PS"
+    },
+    {
+        "name": "Progressos e M\u00e9todos em Neuroci\u00eancia",
+        "formattedName": "PMN"
+    },
+    {
+        "name": "Projeto Ambiental Urbano",
+        "formattedName": "PAU"
+    },
+    {
+        "name": "Projeto Assistido por Computador",
+        "formattedName": "PAPC"
+    },
+    {
+        "name": "Projeto Avan\u00e7ado em Sistemas de Computa\u00e7\u00e3o",
+        "formattedName": "PASC"
+    },
+    {
+        "name": "Projeto de Aeronaves I",
+        "formattedName": "PA"
+    },
+    {
+        "name": "Projeto de Alta Frequ\u00eancia",
+        "formattedName": "PAF"
+    },
+    {
+        "name": "Projeto de Controle Discreto",
+        "formattedName": "PCD"
+    },
+    {
+        "name": "Projeto de Elementos Estruturais de Aeronaves I",
+        "formattedName": "PEEA"
+    },
+    {
+        "name": "Projeto de Elementos Estruturais de Aeronaves II",
+        "formattedName": "PEEA"
+    },
+    {
+        "name": "Projeto de Filtros Digitais",
+        "formattedName": "PFD"
+    },
+    {
+        "name": "Projeto de Geradores El\u00e9tricos para Energia E\u00f3lica",
+        "formattedName": "PGEPEE"
+    },
+    {
+        "name": "Projeto de Microdispositivos para Instrumenta\u00e7\u00e3o",
+        "formattedName": "PMPI"
+    },
+    {
+        "name": "Projeto de Redes",
+        "formattedName": "PR"
+    },
+    {
+        "name": "Projeto de Sistemas de Comunica\u00e7\u00e3o",
+        "formattedName": "PSC"
+    },
+    {
+        "name": "Projeto de Sistemas Multim\u00eddia",
+        "formattedName": "PSM"
+    },
+    {
+        "name": "Projeto Dirigido",
+        "formattedName": "PD"
+    },
+    {
+        "name": "Projeto e An\u00e1lise de Pr\u00f3teses e \u00d3rteses",
+        "formattedName": "PAP\u00d3"
+    },
+    {
+        "name": "Projeto e Desenvolvimento de Interfaces C\u00e9rebro-M\u00e1quina",
+        "formattedName": "PDIC"
+    },
+    {
+        "name": "Projeto e Desenvolvimento de Sistemas para An\u00e1lise de Dados M\u00e9dicos",
+        "formattedName": "PDSPADM"
+    },
+    {
+        "name": "Projeto Interdisciplinar",
+        "formattedName": "PI"
+    },
+    {
+        "name": "Projeto Virtual e Integrado de Manufatura",
+        "formattedName": "PVIM"
+    },
+    {
+        "name": "Projetos de Ensino de Matem\u00e1tica e Ci\u00eancias com Arte",
+        "formattedName": "PEMCCA"
+    },
+    {
+        "name": "Projetos Industriais",
+        "formattedName": "PI"
+    },
+    {
+        "name": "Propaga\u00e7\u00e3o e Antenas",
+        "formattedName": "PA"
+    },
+    {
+        "name": "Propriedade Intelectual",
+        "formattedName": "PI"
+    },
+    {
+        "name": "Propriedades El\u00e9tricas, Magn\u00e9ticas e \u00d3pticas",
+        "formattedName": "PEM\u00d3"
+    },
+    {
+        "name": "Propriedades Magn\u00e9ticas e Eletr\u00f4nicas",
+        "formattedName": "PME"
+    },
+    {
+        "name": "Propriedades Mec\u00e2nicas e T\u00e9rmicas",
+        "formattedName": "PMT"
+    },
+    {
+        "name": "Propuls\u00e3o Aeroespacial N\u00e3o-Convencional",
+        "formattedName": "PAN"
+    },
+    {
+        "name": "Prote\u00e7\u00e3o de Sistemas El\u00e9tricos de Pot\u00eancia",
+        "formattedName": "PSEP"
+    },
+    {
+        "name": "Prote\u00ednas Recombinantes",
+        "formattedName": "PR"
+    },
+    {
+        "name": "Provas e Modelos",
+        "formattedName": "PM"
+    },
+    {
+        "name": "Psicologia Cognitiva",
+        "formattedName": "PC"
+    },
+    {
+        "name": "Psicologia da Educa\u00e7\u00e3o: Aprendizagem",
+        "formattedName": "PEA"
+    },
+    {
+        "name": "Psicologia do Desenvolvimento: Inf\u00e2ncia, juventude, Vida adulta e envelhecimento",
+        "formattedName": "PDIJVAE"
+    },
+    {
+        "name": "Psicologia Experimental",
+        "formattedName": "PE"
+    },
+    {
+        "name": "Psicometria",
+        "formattedName": "P"
+    },
+    {
+        "name": "Psicopatologia",
+        "formattedName": "P"
+    },
+    {
+        "name": "Qualidade da Energia El\u00e9trica",
+        "formattedName": "QEE"
+    },
+    {
+        "name": "Qualidade de Imagens M\u00e9dicas",
+        "formattedName": "QIM"
+    },
+    {
+        "name": "Qualidade em Servi\u00e7os",
+        "formattedName": "QS"
+    },
+    {
+        "name": "Qualidade em Sistemas",
+        "formattedName": "QS"
+    },
+    {
+        "name": "Quest\u00f5es Ambientais Globais",
+        "formattedName": "QAG"
+    },
+    {
+        "name": "Quest\u00f5es Atuais no Ensino de Ci\u00eancias",
+        "formattedName": "QAEC"
+    },
+    {
+        "name": "Quest\u00f5es de \u00c9tica",
+        "formattedName": "Q\u00c9"
+    },
+    {
+        "name": "Quest\u00f5es de Filosofia Pol\u00edtica",
+        "formattedName": "QFP"
+    },
+    {
+        "name": "Quest\u00f5es Metodol\u00f3gicas em Economia",
+        "formattedName": "QME"
+    },
+    {
+        "name": "Qu\u00edmica Ambiental",
+        "formattedName": "QA"
+    },
+    {
+        "name": "Qu\u00edmica Anal\u00edtica Cl\u00e1ssica I",
+        "formattedName": "QAC"
+    },
+    {
+        "name": "Qu\u00edmica Anal\u00edtica Cl\u00e1ssica II",
+        "formattedName": "QAC"
+    },
+    {
+        "name": "Qu\u00edmica de Alimentos",
+        "formattedName": "QA"
+    },
+    {
+        "name": "Qu\u00edmica de Coordena\u00e7\u00e3o",
+        "formattedName": "QC"
+    },
+    {
+        "name": "Qu\u00edmica de Macromol\u00e9culas Biol\u00f3gicas",
+        "formattedName": "QMB"
+    },
+    {
+        "name": "Qu\u00edmica do Petr\u00f3leo",
+        "formattedName": "QP"
+    },
+    {
+        "name": "Qu\u00edmica dos Elementos",
+        "formattedName": "QDE"
+    },
+    {
+        "name": "Qu\u00edmica dos Materiais",
+        "formattedName": "QDM"
+    },
+    {
+        "name": "Qu\u00edmica Inorg\u00e2nica Avan\u00e7ada",
+        "formattedName": "QIA"
+    },
+    {
+        "name": "Qu\u00edmica Inorg\u00e2nica de Materiais",
+        "formattedName": "QIM"
+    },
+    {
+        "name": "Qu\u00edmica Inorg\u00e2nica Experimental",
+        "formattedName": "QIE"
+    },
+    {
+        "name": "Qu\u00edmica Org\u00e2nica Aplicada",
+        "formattedName": "QOA"
+    },
+    {
+        "name": "Qu\u00edmica Org\u00e2nica Experimental",
+        "formattedName": "QOE"
+    },
+    {
+        "name": "Quimiometria",
+        "formattedName": "Q"
+    },
+    {
+        "name": "Rea\u00e7\u00f5es Nucleares",
+        "formattedName": "RN"
+    },
+    {
+        "name": "Reciclagem e Ambiente",
+        "formattedName": "RA"
+    },
+    {
+        "name": "Recupera\u00e7\u00e3o de \u00c1reas Degradadas",
+        "formattedName": "R\u00c1D"
+    },
+    {
+        "name": "Recursos Did\u00e1ticos para o Ensino de Qu\u00edmica",
+        "formattedName": "RDPEQ"
+    },
+    {
+        "name": "Recursos H\u00eddricos",
+        "formattedName": "RH"
+    },
+    {
+        "name": "Redes Convergentes",
+        "formattedName": "RC"
+    },
+    {
+        "name": "Redes de Barramento de Campo",
+        "formattedName": "RBC"
+    },
+    {
+        "name": "Redes de Computadores",
+        "formattedName": "RC"
+    },
+    {
+        "name": "Redes de Distribui\u00e7\u00e3o de Energia El\u00e9trica",
+        "formattedName": "RDEE"
+    },
+    {
+        "name": "Redes sem Fio",
+        "formattedName": "RSF"
+    },
+    {
+        "name": "Redes WAN de Banda Larga",
+        "formattedName": "RWBL"
+    },
+    {
+        "name": "Refino do Petr\u00f3leo",
+        "formattedName": "RP"
+    },
+    {
+        "name": "Reflex\u00f5es sobre arte e sociedade",
+        "formattedName": "RSAS"
+    },
+    {
+        "name": "Refrigera\u00e7\u00e3o e Condicionamento de Ar",
+        "formattedName": "RC"
+    },
+    {
+        "name": "Regi\u00e3o e Regionaliza\u00e7\u00e3o",
+        "formattedName": "RR"
+    },
+    {
+        "name": "Regime Internacional dos Direitos Humanos",
+        "formattedName": "RIDDH"
+    },
+    {
+        "name": "Regimes de Negocia\u00e7\u00e3o Ambiental Internacional e a Atua\u00e7\u00e3o Brasileira",
+        "formattedName": "RNAIAB"
+    },
+    {
+        "name": "Regimes de Negocia\u00e7\u00e3o Comercial Internacional e a Atua\u00e7\u00e3o Brasileira",
+        "formattedName": "RNCIAB"
+    },
+    {
+        "name": "Regimes de Negocia\u00e7\u00e3o Financeira Internacional e a Atua\u00e7\u00e3o Brasileira",
+        "formattedName": "RNFIAB"
+    },
+    {
+        "name": "Regimes e Formas de Governo",
+        "formattedName": "RFG"
+    },
+    {
+        "name": "Regula\u00e7\u00e3o Ambiental e Urban\u00edstica",
+        "formattedName": "RAU"
+    },
+    {
+        "name": "Regula\u00e7\u00e3o e Ag\u00eancias Reguladoras no Contexto Brasileiro",
+        "formattedName": "RARCB"
+    },
+    {
+        "name": "Regula\u00e7\u00e3o e Mercado de Energia El\u00e9trica",
+        "formattedName": "RMEE"
+    },
+    {
+        "name": "Rela\u00e7\u00e3o fam\u00edlia-escola na inclus\u00e3o escolar",
+        "formattedName": "RFIE"
+    },
+    {
+        "name": "Rela\u00e7\u00f5es Comerciais e de Investimento Internacionais",
+        "formattedName": "RCII"
+    },
+    {
+        "name": "Relac\u0327o\u0303es Internacionais Contempora\u0302neas",
+        "formattedName": "RIC"
+    },
+    {
+        "name": "Rela\u00e7\u00f5es Internacionais e Arte",
+        "formattedName": "RIA"
+    },
+    {
+        "name": "Rela\u00e7\u00f5es monet\u00e1rias e financeiras internacionais",
+        "formattedName": "RMFI"
+    },
+    {
+        "name": "Relatividade Restrita",
+        "formattedName": "RR"
+    },
+    {
+        "name": "Reologia",
+        "formattedName": "R"
+    },
+    {
+        "name": "Representa\u00e7\u00e3o Gr\u00e1fica de Projetos Ambientais e Urbanos",
+        "formattedName": "RGPAU"
+    },
+    {
+        "name": "Reprodu\u00e7\u00e3o Assistida em Mam\u00edferos",
+        "formattedName": "RAM"
+    },
+    {
+        "name": "Res\u00edduos Nucleares",
+        "formattedName": "RN"
+    },
+    {
+        "name": "Res\u00edduos S\u00f3lidos",
+        "formattedName": "RS"
+    },
+    {
+        "name": "Re\u00faso de \u00c1gua",
+        "formattedName": "R\u00c1"
+    },
+    {
+        "name": "Revolu\u00e7\u00f5es e Regimes Autorit\u00e1rios na Am\u00e9rica Latina Contempor\u00e2nea",
+        "formattedName": "RRAALC"
+    },
+    {
+        "name": "Riscos No Ambiente Urbano",
+        "formattedName": "RAU"
+    },
+    {
+        "name": "Rob\u00f4s M\u00f3veis Aut\u00f4nomos",
+        "formattedName": "RMA"
+    },
+    {
+        "name": "Rob\u00f3tica",
+        "formattedName": "R"
+    },
+    {
+        "name": "Rob\u00f3tica e Sistemas Inteligentes",
+        "formattedName": "RSI"
+    },
+    {
+        "name": "Rob\u00f3tica Educacional",
+        "formattedName": "RE"
+    },
+    {
+        "name": "Rob\u00f3tica Pedag\u00f3gica com Projetos Interdisciplinares",
+        "formattedName": "RPCPI"
+    },
+    {
+        "name": "Saberes e temporalidades tradicionais",
+        "formattedName": "STT"
+    },
+    {
+        "name": "Saneamento Ambiental",
+        "formattedName": "SA"
+    },
+    {
+        "name": "Sa\u00fade Ambiental",
+        "formattedName": "SA"
+    },
+    {
+        "name": "Sa\u00fade, Determinantes Socioambientais e Equidade",
+        "formattedName": "SDSE"
+    },
+    {
+        "name": "Seguran\u00e7a de Dados",
+        "formattedName": "SD"
+    },
+    {
+        "name": "Seguran\u00e7a de Instala\u00e7\u00f5es Nucleares",
+        "formattedName": "SIN"
+    },
+    {
+        "name": "Seguran\u00e7a de Redes",
+        "formattedName": "SR"
+    },
+    {
+        "name": "Seguran\u00e7a dos Territ\u00f3rios",
+        "formattedName": "SDT"
+    },
+    {
+        "name": "Seguran\u00e7a e Regulamenta\u00e7\u00e3o em Biotecnologia",
+        "formattedName": "SRB"
+    },
+    {
+        "name": "Seguran\u00e7a em Laborat\u00f3rios de Qu\u00edmica",
+        "formattedName": "SLQ"
+    },
+    {
+        "name": "Seguran\u00e7a em Redes",
+        "formattedName": "SR"
+    },
+    {
+        "name": "Seguran\u00e7a Internacional",
+        "formattedName": "SI"
+    },
+    {
+        "name": "Sele\u00e7\u00e3o de Materiais",
+        "formattedName": "SM"
+    },
+    {
+        "name": "Sem\u00e2ntica de Linguagem de Programa\u00e7\u00e3o",
+        "formattedName": "SLP"
+    },
+    {
+        "name": "Semin\u00e1rios de Leitura",
+        "formattedName": "SL"
+    },
+    {
+        "name": "Semin\u00e1rios de Modalidades Diversas em Educa\u00e7\u00e3o Matem\u00e1tica",
+        "formattedName": "SMDEM"
+    },
+    {
+        "name": "Semin\u00e1rios de Pesquisa em Educa\u00e7\u00e3o Matem\u00e1tica I",
+        "formattedName": "SPEM"
+    },
+    {
+        "name": "Semin\u00e1rios de Pesquisa em Educa\u00e7\u00e3o Matem\u00e1tica II",
+        "formattedName": "SPEM"
+    },
+    {
+        "name": "Semin\u00e1rios em Materiais Avan\u00e7ados",
+        "formattedName": "SMA"
+    },
+    {
+        "name": "Semin\u00e1rios em Qu\u00edmica I",
+        "formattedName": "SQ"
+    },
+    {
+        "name": "Semin\u00e1rios em Qu\u00edmica II",
+        "formattedName": "SQ"
+    },
+    {
+        "name": "Sensa\u00e7\u00e3o e Percep\u00e7\u00e3o",
+        "formattedName": "SP"
+    },
+    {
+        "name": "Sensores Biom\u00e9dicos",
+        "formattedName": "SB"
+    },
+    {
+        "name": "Sensores e Transdutores",
+        "formattedName": "ST"
+    },
+    {
+        "name": "Sensoriamento Remoto",
+        "formattedName": "SR"
+    },
+    {
+        "name": "S\u00e9ries Temporais",
+        "formattedName": "ST"
+    },
+    {
+        "name": "Siderurgia e Engenharia dos A\u00e7os",
+        "formattedName": "SEDA"
+    },
+    {
+        "name": "Simetrias no Plano Euclidiano",
+        "formattedName": "SPE"
+    },
+    {
+        "name": "Simula\u00e7\u00e3o de Modelos de Gest\u00e3o",
+        "formattedName": "SMG"
+    },
+    {
+        "name": "Simula\u00e7\u00e3o de Sistemas de Comunica\u00e7\u00e3o",
+        "formattedName": "SSC"
+    },
+    {
+        "name": "Sinais Aleat\u00f3rios",
+        "formattedName": "SA"
+    },
+    {
+        "name": "Sindicalismo e Movimentos Sociais ",
+        "formattedName": "SMS"
+    },
+    {
+        "name": "S\u00edntese de Pol\u00edmeros",
+        "formattedName": "SP"
+    },
+    {
+        "name": "Sistema Financeiro Internacional",
+        "formattedName": "SFI"
+    },
+    {
+        "name": "Sistemas CAD/CAE",
+        "formattedName": "SC"
+    },
+    {
+        "name": "Sistemas CAD/CAM",
+        "formattedName": "SC"
+    },
+    {
+        "name": "Sistemas CAM",
+        "formattedName": "SC"
+    },
+    {
+        "name": "Sistemas de Abastecimento de \u00c1guas",
+        "formattedName": "SA\u00c1"
+    },
+    {
+        "name": "Sistemas de Controle I",
+        "formattedName": "SC"
+    },
+    {
+        "name": "Sistemas de Controle II",
+        "formattedName": "SC"
+    },
+    {
+        "name": "Sistemas de Drenagem Urbana",
+        "formattedName": "SDU"
+    },
+    {
+        "name": "Sistemas de Esgotamento Sanit\u00e1rio",
+        "formattedName": "SES"
+    },
+    {
+        "name": "Sistemas de Gerenciamento de Banco de Dados",
+        "formattedName": "SGBD"
+    },
+    {
+        "name": "Sistemas de Informa\u00e7\u00e3o",
+        "formattedName": "SI"
+    },
+    {
+        "name": "Sistemas de Informa\u00e7\u00e3o Corporativos",
+        "formattedName": "SIC"
+    },
+    {
+        "name": "Sistemas de Micro-Ondas",
+        "formattedName": "SM"
+    },
+    {
+        "name": "Sistemas de Pot\u00eancia I",
+        "formattedName": "SP"
+    },
+    {
+        "name": "Sistemas de Pot\u00eancia II",
+        "formattedName": "SP"
+    },
+    {
+        "name": "Sistemas de Propuls\u00e3o I",
+        "formattedName": "SP"
+    },
+    {
+        "name": "Sistemas de Propuls\u00e3o II",
+        "formattedName": "SP"
+    },
+    {
+        "name": "Sistemas de Tratamento de \u00c1gua",
+        "formattedName": "ST\u00c1"
+    },
+    {
+        "name": "Sistemas Digitais",
+        "formattedName": "SD"
+    },
+    {
+        "name": "Sistemas Distribu\u00eddos",
+        "formattedName": "SD"
+    },
+    {
+        "name": "Sistemas e Processos de Produ\u00e7\u00e3o",
+        "formattedName": "SPP"
+    },
+    {
+        "name": "Sistemas Embarcados para Engenharia Biom\u00e9dica",
+        "formattedName": "SEPEB"
+    },
+    {
+        "name": "Sistemas Inteligentes",
+        "formattedName": "SI"
+    },
+    {
+        "name": "Sistemas Microprocessados",
+        "formattedName": "SM"
+    },
+    {
+        "name": "Sistemas Multiagentes",
+        "formattedName": "SM"
+    },
+    {
+        "name": "Sistemas Multim\u00eddia",
+        "formattedName": "SM"
+    },
+    {
+        "name": "Sistemas Multi-Rob\u00f4s Sociais",
+        "formattedName": "SMS"
+    },
+    {
+        "name": "Sistemas Operacionais",
+        "formattedName": "SO"
+    },
+    {
+        "name": "Sistemas T\u00e9rmicos",
+        "formattedName": "ST"
+    },
+    {
+        "name": "Sistemas Termosolares",
+        "formattedName": "ST"
+    },
+    {
+        "name": "Sistem\u00e1tica e Biogeografia",
+        "formattedName": "SB"
+    },
+    {
+        "name": "Socializa\u00e7\u00e3o e sociabilidade na sociedade contempor\u00e2nea",
+        "formattedName": "SSSC"
+    },
+    {
+        "name": "Sociologia da educa\u00e7\u00e3o",
+        "formattedName": "SE"
+    },
+    {
+        "name": "Sociologia das quest\u00f5es agr\u00e1rias",
+        "formattedName": "SDQA"
+    },
+    {
+        "name": "Sociologia dos Territ\u00f3rios",
+        "formattedName": "SDT"
+    },
+    {
+        "name": "Solu\u00e7\u00f5es para Desafios em Engenharia",
+        "formattedName": "SPDE"
+    },
+    {
+        "name": "Subesta\u00e7\u00e3o e Equipamentos",
+        "formattedName": "SE"
+    },
+    {
+        "name": "Supervis\u00e3o e Monitoramento de Processos Energ\u00e9ticos",
+        "formattedName": "SMPE"
+    },
+    {
+        "name": "Sustentabilidade e Indicadores",
+        "formattedName": "SI"
+    },
+    {
+        "name": "T\u00e9cnicas Anal\u00edticas de Separa\u00e7\u00e3o",
+        "formattedName": "TAS"
+    },
+    {
+        "name": "T\u00e9cnicas Aplicadas a Processos Biotecnol\u00f3gicos",
+        "formattedName": "TAPB"
+    },
+    {
+        "name": "T\u00e9cnicas Avan\u00e7adas de Programa\u00e7\u00e3o",
+        "formattedName": "TAP"
+    },
+    {
+        "name": "T\u00e9cnicas de An\u00e1lise Estrutural",
+        "formattedName": "TAE"
+    },
+    {
+        "name": "T\u00e9cnicas de Tomadas de Decis\u00e3o Aplic\u00e1veis em Modelos de Depend\u00eancia",
+        "formattedName": "TTDAMD"
+    },
+    {
+        "name": "T\u00e9cnicas de Tomadas de Decis\u00e3o Aplic\u00e1veis em Modelos de Interdepend\u00eancia",
+        "formattedName": "TTDAMI"
+    },
+    {
+        "name": "T\u00e9cnicas Modernas em Fotodiagn\u00f3stico",
+        "formattedName": "TMF"
+    },
+    {
+        "name": "T\u00e9cnicas Modernas em Fototerapia",
+        "formattedName": "TMF"
+    },
+    {
+        "name": "Tecnologia da Combust\u00e3o",
+        "formattedName": "TC"
+    },
+    {
+        "name": "Tecnologia de Biomateriais",
+        "formattedName": "TB"
+    },
+    {
+        "name": "Tecnologia de Elast\u00f4meros",
+        "formattedName": "TE"
+    },
+    {
+        "name": "Tecnologia de Fermenta\u00e7\u00f5es",
+        "formattedName": "TF"
+    },
+    {
+        "name": "Tecnologia de Redes \u00d3pticas",
+        "formattedName": "TR\u00d3"
+    },
+    {
+        "name": "Tecnologia do V\u00e1cuo e Criogenia",
+        "formattedName": "TVC"
+    },
+    {
+        "name": "Tecnologias Alternativas de Tratamento de \u00c1gua e Efluentes",
+        "formattedName": "TAT\u00c1E"
+    },
+    {
+        "name": "Tecnologias da Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o na Educa\u00e7\u00e3o",
+        "formattedName": "TICE"
+    },
+    {
+        "name": "Tecnologias Sociais",
+        "formattedName": "TS"
+    },
+    {
+        "name": "Telefonia Fixa e VoIP",
+        "formattedName": "TFV"
+    },
+    {
+        "name": "Telemedicina e Sistemas de Apoio a Decis\u00e3o",
+        "formattedName": "TSAD"
+    },
+    {
+        "name": "Temas Contempor\u00e2neos",
+        "formattedName": "TC"
+    },
+    {
+        "name": "Temas de Direito Internacional Pu\u0301blico",
+        "formattedName": "TDIP"
+    },
+    {
+        "name": "Temas de Filosofia Antiga",
+        "formattedName": "TFA"
+    },
+    {
+        "name": "Temas de Filosofia Contempor\u00e2nea I",
+        "formattedName": "TFC"
+    },
+    {
+        "name": "Temas de Filosofia Contempor\u00e2nea II",
+        "formattedName": "TFC"
+    },
+    {
+        "name": "Temas de Filosofia Medieval I",
+        "formattedName": "TFM"
+    },
+    {
+        "name": "Temas de Filosofia Medieval II",
+        "formattedName": "TFM"
+    },
+    {
+        "name": "Temas de Filosofia Moderna I",
+        "formattedName": "TFM"
+    },
+    {
+        "name": "Temas de Filosofia Moderna II",
+        "formattedName": "TFM"
+    },
+    {
+        "name": "Temas e Problemas em Filosofia",
+        "formattedName": "TPF"
+    },
+    {
+        "name": "Temas filos\u00f3ficos em debate",
+        "formattedName": "TFD"
+    },
+    {
+        "name": "Tempos, M\u00e9todos e Arranjos F\u00edsicos",
+        "formattedName": "TMAF"
+    },
+    {
+        "name": "Tend\u00eancias em Educa\u00e7\u00e3o Matem\u00e1tica",
+        "formattedName": "TEM"
+    },
+    {
+        "name": "Teoria Aritm\u00e9tica dos N\u00fameros",
+        "formattedName": "TADN"
+    },
+    {
+        "name": "Teoria Aritm\u00e9tica dos N\u00fameros II",
+        "formattedName": "TADN"
+    },
+    {
+        "name": "Teoria Axiom\u00e1tica de Conjuntos",
+        "formattedName": "TAC"
+    },
+    {
+        "name": "Teoria B\u00e1sica de Categorias",
+        "formattedName": "TBC"
+    },
+    {
+        "name": "Teoria Cl\u00e1ssica dos Campos",
+        "formattedName": "TCDC"
+    },
+    {
+        "name": "Teoria Cr\u00edtica",
+        "formattedName": "TC"
+    },
+    {
+        "name": "Teoria da Elasticidade",
+        "formattedName": "TE"
+    },
+    {
+        "name": "Teoria da Hist\u00f3ria I",
+        "formattedName": "TH"
+    },
+    {
+        "name": "Teoria da Informa\u00e7\u00e3o e C\u00f3digos",
+        "formattedName": "TIC"
+    },
+    {
+        "name": "Teoria da Medida e Integra\u00e7\u00e3o",
+        "formattedName": "TMI"
+    },
+    {
+        "name": "Teoria da Recurs\u00e3o e Computabilidade",
+        "formattedName": "TRC"
+    },
+    {
+        "name": "Teoria da Regularidade",
+        "formattedName": "TR"
+    },
+    {
+        "name": "Teoria das Ci\u00eancias Humanas",
+        "formattedName": "TDCH"
+    },
+    {
+        "name": "Teoria das Distribui\u00e7\u00f5es",
+        "formattedName": "TDD"
+    },
+    {
+        "name": "Teoria das Filas",
+        "formattedName": "TDF"
+    },
+    {
+        "name": "Teoria de Acionamentos El\u00e9tricos",
+        "formattedName": "TAE"
+    },
+    {
+        "name": "Teoria de An\u00e9is",
+        "formattedName": "TA"
+    },
+    {
+        "name": "Teoria de Controle \u00d3timo",
+        "formattedName": "TC\u00d3"
+    },
+    {
+        "name": "Teoria de Corpos",
+        "formattedName": "TC"
+    },
+    {
+        "name": "Teoria de Filas e An\u00e1lise de Desempenho",
+        "formattedName": "TFAD"
+    },
+    {
+        "name": "Teoria de Grupos",
+        "formattedName": "TG"
+    },
+    {
+        "name": "Teoria de Grupos em F\u00edsica",
+        "formattedName": "TGF"
+    },
+    {
+        "name": "Teoria de Grupos: Mol\u00e9culas e S\u00f3lidos",
+        "formattedName": "TGMS"
+    },
+    {
+        "name": "Teoria de M\u00f3dulos",
+        "formattedName": "TM"
+    },
+    {
+        "name": "Teoria de Semigrupos",
+        "formattedName": "TS"
+    },
+    {
+        "name": "Teoria do Conhecimento Cient\u00edfico",
+        "formattedName": "TCC"
+    },
+    {
+        "name": "Teoria do Conhecimento: Empirismo e Racionalismo",
+        "formattedName": "TCER"
+    },
+    {
+        "name": "Teoria do Planejamento Urbano e Ambiental",
+        "formattedName": "TPUA"
+    },
+    {
+        "name": "Teoria dos Jogos",
+        "formattedName": "TDJ"
+    },
+    {
+        "name": "Teoria e Gest\u00e3o de Organiza\u00e7\u00f5es P\u00fablicas",
+        "formattedName": "TGOP"
+    },
+    {
+        "name": "Teoria e Pr\u00e1tica da Coopera\u00e7\u00e3o Internacional",
+        "formattedName": "TPCI"
+    },
+    {
+        "name": "Teoria Eletromagn\u00e9tica",
+        "formattedName": "TE"
+    },
+    {
+        "name": "Teoria Espectral de Grafos",
+        "formattedName": "TEG"
+    },
+    {
+        "name": "Teorias Cl\u00e1ssicas das Rela\u00e7\u00f5es Internacionais",
+        "formattedName": "TCDRI"
+    },
+    {
+        "name": "Teorias Contempor\u00e2neas das Rela\u00e7\u00f5es Internacionais",
+        "formattedName": "TCDRI"
+    },
+    {
+        "name": "Teorias da Verdade",
+        "formattedName": "TV"
+    },
+    {
+        "name": "Teorias das Vanguardas Art\u00edsticas",
+        "formattedName": "TDVA"
+    },
+    {
+        "name": "Termo Hidr\u00e1ulica de Reatores Nucleares",
+        "formattedName": "THRN"
+    },
+    {
+        "name": "Termodin\u00e2mica Aplicada I",
+        "formattedName": "TA"
+    },
+    {
+        "name": "Termodin\u00e2mica Aplicada II",
+        "formattedName": "TA"
+    },
+    {
+        "name": "Termodin\u00e2mica de Materiais",
+        "formattedName": "TM"
+    },
+    {
+        "name": "Termodin\u00e2mica Estat\u00edstica de Materiais",
+        "formattedName": "TEM"
+    },
+    {
+        "name": "Termodin\u00e2mica Qu\u00edmica",
+        "formattedName": "TQ"
+    },
+    {
+        "name": "Territ\u00f3rio e Log\u00edstica",
+        "formattedName": "TL"
+    },
+    {
+        "name": "Territ\u00f3rio e Sa\u00fade",
+        "formattedName": "TS"
+    },
+    {
+        "name": "Territ\u00f3rio e Sociedade",
+        "formattedName": "TS"
+    },
+    {
+        "name": "Territ\u00f3rio e turismo de baixo impacto ambiental: t\u00f3picos especiais de Geografia",
+        "formattedName": "TTBIATEG"
+    },
+    {
+        "name": "Territ\u00f3rios cai\u00e7aras: modos de produ\u00e7\u00e3o da vida, modos de produ\u00e7\u00e3o de saberes",
+        "formattedName": "TCMPVMPS"
+    },
+    {
+        "name": "Territ\u00f3rios quilombolas: modos de produ\u00e7\u00e3o da vida, modos de produ\u00e7\u00e3o de saberes",
+        "formattedName": "TQMPVMPS"
+    },
+    {
+        "name": "Tomada de Decis\u00f5es e Neuroeconomia",
+        "formattedName": "TDN"
+    },
+    {
+        "name": "T\u00f3picos Avan\u00e7ados de Ci\u00eancias e Humanidades",
+        "formattedName": "TACH"
+    },
+    {
+        "name": "T\u00f3picos Avan\u00e7ados em Desenvolvimento Socioecon\u00f4mico",
+        "formattedName": "TADS"
+    },
+    {
+        "name": "T\u00f3picos Avan\u00e7ados em Economia e Planejamento Territorial",
+        "formattedName": "TAEPT"
+    },
+    {
+        "name": "T\u00f3picos Avan\u00e7ados em Economia Institucional",
+        "formattedName": "TAEI"
+    },
+    {
+        "name": "T\u00f3picos Avan\u00e7ados em Finan\u00e7as",
+        "formattedName": "TAF"
+    },
+    {
+        "name": "T\u00f3picos Avan\u00e7ados em Hist\u00f3ria Econ\u00f4mica",
+        "formattedName": "TAHE"
+    },
+    {
+        "name": "T\u00f3picos Avan\u00e7ados em Macroeconomia",
+        "formattedName": "TAM"
+    },
+    {
+        "name": "T\u00f3picos Avan\u00e7ados em Microeconomia",
+        "formattedName": "TAM"
+    },
+    {
+        "name": "T\u00f3picos Computacionais em Materiais",
+        "formattedName": "TCM"
+    },
+    {
+        "name": "T\u00f3picos Contempor\u00e2neos em Educa\u00e7\u00e3o e Filosofia",
+        "formattedName": "TCEF"
+    },
+    {
+        "name": "T\u00f3picos de An\u00e1lise de Fourier",
+        "formattedName": "TAF"
+    },
+    {
+        "name": "T\u00f3picos de Filosofia e Pr\u00e1ticas de Ensino",
+        "formattedName": "TFPE"
+    },
+    {
+        "name": "T\u00f3picos de Hist\u00f3ria da Ci\u00eancia Moderna",
+        "formattedName": "THCM"
+    },
+    {
+        "name": "T\u00f3picos de Metaf\u00edsica",
+        "formattedName": "TM"
+    },
+    {
+        "name": "T\u00f3picos de Metaf\u00edsica Medieval",
+        "formattedName": "TMM"
+    },
+    {
+        "name": "T\u00f3picos de Otimiza\u00e7\u00e3o em Sistemas El\u00e9tricos de Pot\u00eancia e Aplica\u00e7\u00f5es",
+        "formattedName": "TOSEPA"
+    },
+    {
+        "name": "T\u00f3picos de Pesquisa em Ensino de Filosofia",
+        "formattedName": "TPEF"
+    },
+    {
+        "name": "T\u00f3picos em engenharia de produ\u00e7\u00e3o na ind\u00fastria automotiva",
+        "formattedName": "TEPIA"
+    },
+    {
+        "name": "T\u00f3picos em engenharia de produ\u00e7\u00e3o na ind\u00fastria de alimentos",
+        "formattedName": "TEPIA"
+    },
+    {
+        "name": "T\u00f3picos em engenharia de produ\u00e7\u00e3o na ind\u00fastria qu\u00edmica",
+        "formattedName": "TEPIQ"
+    },
+    {
+        "name": "T\u00f3picos em engenharia de produ\u00e7\u00e3o na ind\u00fastria t\u00eaxtil",
+        "formattedName": "TEPIT"
+    },
+    {
+        "name": "T\u00f3picos em Espa\u00e7os de Sobolev",
+        "formattedName": "TES"
+    },
+    {
+        "name": "T\u00f3picos em F\u00edsica Experimental",
+        "formattedName": "TFE"
+    },
+    {
+        "name": "T\u00f3picos em F\u00edsica Te\u00f3rica",
+        "formattedName": "TFT"
+    },
+    {
+        "name": "T\u00f3picos em Teoria do Conhecimento",
+        "formattedName": "TTC"
+    },
+    {
+        "name": "T\u00f3picos em Topologia Geral",
+        "formattedName": "TTG"
+    },
+    {
+        "name": "T\u00f3picos Emergentes em Banco de Dados",
+        "formattedName": "TEBD"
+    },
+    {
+        "name": "T\u00f3picos Especiais em Direito Internacional, Multilateralismo e Direitos Humanos",
+        "formattedName": "TEDIMDH"
+    },
+    {
+        "name": "T\u00f3picos Especiais em Economia Financeira",
+        "formattedName": "TEEF"
+    },
+    {
+        "name": "T\u00f3picos Especiais em Economia Pol\u00edtica Internacional",
+        "formattedName": "TEEPI"
+    },
+    {
+        "name": "T\u00f3picos Especiais em Engenharia Ambiental e Urbana",
+        "formattedName": "TEEAU"
+    },
+    {
+        "name": "T\u00f3picos Especiais em M\u00e9todos e T\u00e9cnicas para o Planejamento Territorial",
+        "formattedName": "TEMTPPT"
+    },
+    {
+        "name": "T\u00f3picos Especiais em Planejamento Territorial",
+        "formattedName": "TEPT"
+    },
+    {
+        "name": "T\u00f3picos Especiais em Pol\u00edticas P\u00fablicas",
+        "formattedName": "TEPP"
+    },
+    {
+        "name": "T\u00f3picos Especiais em Pol\u00edticas Setoriais no Territ\u00f3rio",
+        "formattedName": "TEPST"
+    },
+    {
+        "name": "T\u00f3picos Especiais em Qu\u00edmica Org\u00e2nica",
+        "formattedName": "TEQO"
+    },
+    {
+        "name": "T\u00f3picos Especiais em Rela\u00e7\u00f5es Internacionais",
+        "formattedName": "TERI"
+    },
+    {
+        "name": "T\u00f3picos Especiais sobre o Sul Global",
+        "formattedName": "TESSG"
+    },
+    {
+        "name": "T\u00f3picos Experimentais em Materiais I",
+        "formattedName": "TEM"
+    },
+    {
+        "name": "T\u00f3picos Experimentais em Materiais II",
+        "formattedName": "TEM"
+    },
+    {
+        "name": "Topologia",
+        "formattedName": "T"
+    },
+    {
+        "name": "Toxicologia",
+        "formattedName": "T"
+    },
+    {
+        "name": "Trabalhos de Campo, Coleta e Preserva\u00e7\u00e3o de Organismos",
+        "formattedName": "TCCPO"
+    },
+    {
+        "name": "Trajet\u00f3ria de desenvolvimento de pa\u00edses exportadores de petr\u00f3leo",
+        "formattedName": "TDPEP"
+    },
+    {
+        "name": "Trajet\u00f3rias das Pol\u00edticas de CT&I no Brasil",
+        "formattedName": "TDPCB"
+    },
+    {
+        "name": "Transfer\u00eancia de Calor Aplicada a Sistemas Aeroespaciais",
+        "formattedName": "TCASA"
+    },
+    {
+        "name": "Transfer\u00eancia de Calor e Mec\u00e2nica dos Fluidos Computacional I",
+        "formattedName": "TCMDFC"
+    },
+    {
+        "name": "Transfer\u00eancia de Calor e Mec\u00e2nica dos Fluidos Computacional II",
+        "formattedName": "TCMDFC"
+    },
+    {
+        "name": "Transfer\u00eancia de Calor I",
+        "formattedName": "TC"
+    },
+    {
+        "name": "Transfer\u00eancia de Calor II",
+        "formattedName": "TC"
+    },
+    {
+        "name": "Transfer\u00eancia de Calor Industrial",
+        "formattedName": "TCI"
+    },
+    {
+        "name": "Transfer\u00eancia de Massa",
+        "formattedName": "TM"
+    },
+    {
+        "name": "Transforma\u00e7\u00f5es Qu\u00edmicas",
+        "formattedName": "TQ"
+    },
+    {
+        "name": "Transformadas em Sinais e Sistemas Lineares",
+        "formattedName": "TSSL"
+    },
+    {
+        "name": "Transmiss\u00e3o de Energia El\u00e9trica em Corrente Cont\u00ednua",
+        "formattedName": "TEECC"
+    },
+    {
+        "name": "Transporte de Petr\u00f3leo e G\u00e1s Natural",
+        "formattedName": "TPGN"
+    },
+    {
+        "name": "Transportes e Meio Ambiente",
+        "formattedName": "TMA"
+    },
+    {
+        "name": "Transportes e Mobilidade Urbana",
+        "formattedName": "TMU"
+    },
+    {
+        "name": "Transportes, Uso e Ocupa\u00e7\u00e3o do Solo",
+        "formattedName": "TUOS"
+    },
+    {
+        "name": "Tratamento Avan\u00e7ado de \u00c1guas Residu\u00e1rias",
+        "formattedName": "TA\u00c1R"
+    },
+    {
+        "name": "Tratamento de \u00c1guas Urbanas Servidas",
+        "formattedName": "T\u00c1US"
+    },
+    {
+        "name": "Turbinas e sistemas e\u00f3licos de pequeno porte",
+        "formattedName": "TSEPP"
+    },
+    {
+        "name": "Turbinas Hidr\u00e1ulicas",
+        "formattedName": "TH"
+    },
+    {
+        "name": "TV Digital",
+        "formattedName": "D"
+    },
+    {
+        "name": "Ultrassom Aplicado \u00e0 Medicina",
+        "formattedName": "UAM"
+    },
+    {
+        "name": "Unidades de Conserva\u00e7\u00e3o da Natureza",
+        "formattedName": "UCN"
+    },
+    {
+        "name": "Urbaniza\u00e7\u00e3o Brasileira",
+        "formattedName": "UB"
+    },
+    {
+        "name": "Uso do Solo Urbano",
+        "formattedName": "USU"
+    },
+    {
+        "name": "Vari\u00e1veis Complexas e Aplica\u00e7\u00f5es",
+        "formattedName": "VCA"
+    },
+    {
+        "name": "Ventila\u00e7\u00e3o Industrial e Ar Comprimido",
+        "formattedName": "VIC"
+    },
+    {
+        "name": "Ventiladores Industriais",
+        "formattedName": "VI"
+    },
+    {
+        "name": "Vibra\u00e7\u00f5es",
+        "formattedName": "V"
+    },
+    {
+        "name": "Vida Artificial na Computa\u00e7\u00e3o",
+        "formattedName": "VAC"
+    },
+    {
+        "name": "Virologia",
+        "formattedName": "V"
+    },
+    {
+        "name": "Vis\u00e3o Computacional",
+        "formattedName": "VC"
+    },
+    {
+        "name": "Vizualiza\u00e7\u00e3o de Dados e Informa\u00e7\u00f5es",
+        "formattedName": "VDI"
+    },
+    {
+        "name": "Web Sem\u00e2ntica",
+        "formattedName": "WS"
+    },
+    {
+        "name": "Zoologia de Ecdysozoa",
+        "formattedName": "ZE"
+    },
+    {
+        "name": "Zoologia de Vertebrados",
+        "formattedName": "ZV"
+    },
+    {
+        "name": "Zoologia: Origem e Diversifica\u00e7\u00e3o de Metazoa",
+        "formattedName": "ZODM"
+    }
+]
